@@ -2379,7 +2379,7 @@
 					<attribute id="Name" type="LSString" value="GOLEM_M_NKD_HEAD_A" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="aefea06b-163c-6dfc-2993-9cf8ee9895f1" />
+					<attribute id="SkeletonResource" type="FixedString" value="da0cd67f-5172-cd00-b9f1-cfdde0ebb6e6" />
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Head" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
