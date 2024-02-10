@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="b56266bd-33c3-4257-8320-ad112de62267" />
+					<attribute id="Name" type="LSString" value="BASE_Main_Female_Stoneborn" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="b98a80f4-20dc-4666-9b5b-2993b38034ed" />
+					<attribute id="Icon" type="FixedString" value="24bcc44f-4168-1468-222a-b1bb6370e000-_(Icon_Elf_Female)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="58b3a456-445d-4253-8957-0426ce30ff38" />
+					<attribute id="Race" type="guid" value="39e235f4-69e1-4e8c-9017-786693891655" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="d3406cdf-a585-4c9e-b99e-8ce2243f9026" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="0037e998-bfbe-4a4e-beb5-5c8ac2342846" />
+					<attribute id="Name" type="LSString" value="BASE_Main_Male_Stoneborn" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="dcded019-b845-43a0-b91c-b853646218a1" />
+					<attribute id="Icon" type="FixedString" value="4c8affee-8495-7a94-6506-bf050e0e091a-_(Icon_Elf_Male)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="01a192d2-38d8-4e8d-b837-9244b13cfd66" />
+					<attribute id="Race" type="guid" value="39e235f4-69e1-4e8c-9017-786693891655" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="d3406cdf-a585-4c9e-b99e-8ce2243f9026" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="9011406c-1207-42b1-8097-def9daa48b7f" />
+					<attribute id="Name" type="LSString" value="Stoneborn_Female_Earthmother_Player" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="b56266bd-33c3-4257-8320-ad112de62267" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="d67bd924-3c1f-c33a-5298-feca5bbdc284-_(Icon_Elf_Female)" />
+					<attribute id="Stats" type="FixedString" value="HeroElfFemale" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="f0b73219-d714-4ec3-97eb-c91ea5a388bb" />
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="e1254a4e-3d52-76c2-7b19-52e93941b6dd" />
+					<attribute id="Race" type="guid" value="4b571ca6-3b3d-4664-9d4c-672e6dd11274" />
+					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="0eb01438-0f1c-4b68-9acb-c16b4fd95864" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="2e2c1741-7847-4a52-b144-3b45e9fce33f" />
+					<attribute id="Name" type="LSString" value="Stoneborn_Male_Earthmother_Player" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0037e998-bfbe-4a4e-beb5-5c8ac2342846" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="f0c009b2-7868-784e-f2fc-dde5ac934aba-_(Icon_Elf_Male)" />
+					<attribute id="Stats" type="FixedString" value="HeroElfMale" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="c9e9c308-4649-4616-b625-63ecd94f7be5" />
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="f7af9f10-cd33-3b88-e96a-d52952e81f5b" />
+					<attribute id="Race" type="guid" value="4b571ca6-3b3d-4664-9d4c-672e6dd11274" />
+					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="0eb01438-0f1c-4b68-9acb-c16b4fd95864" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
