@@ -518,7 +518,7 @@
 					<attribute id="HairType" type="uint8" value="0" />
 					<attribute id="ID" type="FixedString" value="41ea3913-f9b1-4a7f-b441-c73486a27c3b" />
 					<attribute id="MaterialType" type="uint8" value="18" />
-					<attribute id="Name" type="LSString" value="DWR_M_NKD_Body_A" />
+					<attribute id="Name" type="LSString" value="GOLEM_M_NKD" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="RemapperSlotId" type="FixedString" value="" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
@@ -536,27 +536,7 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="5c922b80-328e-4f4a-915b-51efefd41975" />
-							<attribute id="ObjectID" type="FixedString" value="GOLEM_M_NKD.DWR_M_NKD_Body_A_Mesh.0" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="1" />
-							<attribute id="MaterialID" type="FixedString" value="5c922b80-328e-4f4a-915b-51efefd41975" />
-							<attribute id="ObjectID" type="FixedString" value="GOLEM_M_NKD.DWR_M_NKD_Body_A_Mesh_LOD1.1" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="2" />
-							<attribute id="MaterialID" type="FixedString" value="5c922b80-328e-4f4a-915b-51efefd41975" />
-							<attribute id="ObjectID" type="FixedString" value="GOLEM_M_NKD.DWR_M_NKD_Body_A_Mesh_LOD2.2" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="3" />
-							<attribute id="MaterialID" type="FixedString" value="5c922b80-328e-4f4a-915b-51efefd41975" />
-							<attribute id="ObjectID" type="FixedString" value="GOLEM_M_NKD.DWR_M_NKD_Body_A_Mesh_LOD3.3" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="4" />
-							<attribute id="MaterialID" type="FixedString" value="5c922b80-328e-4f4a-915b-51efefd41975" />
-							<attribute id="ObjectID" type="FixedString" value="GOLEM_M_NKD.DWR_M_NKD_Body_A_Mesh_LOD4.4" />
+							<attribute id="ObjectID" type="FixedString" value="GOLEM_M_NKD.STONE_NKD_Body_A_Mesh.0" />
 						</node>
 					</children>
 				</node>
