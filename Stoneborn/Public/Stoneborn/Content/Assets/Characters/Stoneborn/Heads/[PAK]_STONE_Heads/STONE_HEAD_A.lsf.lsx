@@ -2005,13 +2005,6 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="6195ce7b-ac00-40bb-b987-b0b045b0eaba" />
-							<attribute id="ParameterName" type="FixedString" value="normalmap" />
-						</node>
-						<node id="Texture2DParameters">
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 							<attribute id="ID" type="FixedString" value="725ca5a1-1025-0ec3-fef6-44ebec70aca5" />
 							<attribute id="ParameterName" type="FixedString" value="WrinkleMapNormal" />
 						</node>
@@ -2054,13 +2047,6 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="719341ba-0dc9-49c2-bf5d-a5e802d6f621" />
-							<attribute id="ParameterName" type="FixedString" value="CLEA" />
-						</node>
-						<node id="Texture2DParameters">
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 							<attribute id="ID" type="FixedString" value="fb8c13cc-5673-422f-ab7c-3b6460ae23ed" />
 							<attribute id="ParameterName" type="FixedString" value="CancelMSK" />
 						</node>
@@ -2084,6 +2070,20 @@
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 							<attribute id="ID" type="FixedString" value="1ead6d20-5298-4d26-ae19-7c8934b21531" />
 							<attribute id="ParameterName" type="FixedString" value="HMVY" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
+							<attribute id="ID" type="FixedString" value="1ead6d20-5298-4d26-ae19-7c8934b21531" />
+							<attribute id="ParameterName" type="FixedString" value="CLEA" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
+							<attribute id="ID" type="FixedString" value="e530e33b-9a80-4d76-9e07-97b184f3f2d3" />
+							<attribute id="ParameterName" type="FixedString" value="normalmap" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="False" />
@@ -2319,15 +2319,41 @@
 	<region id="TextureBank">
 		<node id="TextureBank">
 			<children>
-				<node id="Resource">
+				<node id="Resource"> Diffuse
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
 					<attribute id="ID" type="FixedString" value="1ead6d20-5298-4d26-ae19-7c8934b21531" />
-					<attribute id="Name" type="LSString" value="STONE_HEAD_A_Textures" />
+					<attribute id="Name" type="LSString" value="StoneDiffuse_Head" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Stoneborn/[PAK]_STONE_Head/STONE_HEAD_A/STONE_HEAD_A_Textures.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Stoneborn/[PAK]_STONE_Head/STONE_HEAD_A/StoneDiffuse_Head.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="STONE_HEAD_A_Textures" />
+					<attribute id="Template" type="FixedString" value="StoneDiffuse_Head" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
+				</node>
+				<node id="Resource"> Roughness
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="58c94635-1c75-4d15-bc08-31a6622cac04" />
+					<attribute id="Name" type="LSString" value="StoneRoughness_Head.DDS" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Stoneborn/[PAK]_STONE_Head/STONE_HEAD_A/StoneRoughness_Head.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="StoneRoughness_Head.DDS" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
+				</node>
+				<node id="Resource"> NM
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="e530e33b-9a80-4d76-9e07-97b184f3f2d3" />
+					<attribute id="Name" type="LSString" value="StoneNormal_Head.DDS" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Stoneborn/[PAK]_STONE_Head/STONE_HEAD_A/StoneNormal_Head.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="StoneNormal_Head.DDS" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
