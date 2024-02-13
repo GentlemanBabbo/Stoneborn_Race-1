@@ -18,6 +18,19 @@
 					<attribute id="VisualResource" type="guid" value="37c9f1e5-8d41-44e9-beae-d5e39a860866"/>
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
+				<node id="CharacterCreationAppearanceVisual">
+					<attribute id="BodyShape" type="uint8" value="1"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7e26e333gb4ceg4510g9719gbe5e5b8244ff" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="c5624c28-957e-421a-a161-3ed9d0f23641"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="db28232e-e8e2-4cbb-bd2a-bfa080ada0fa"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
 			<!-- RaceUUID so you can quickly replace the above with your desired race
 				Halfling: 78cd3bcc-1c43-4a2a-aa80-c34322c16a04
 				Gnome: f1b3f884-4029-4f0f-b158-1f9fe0ae5a0d
