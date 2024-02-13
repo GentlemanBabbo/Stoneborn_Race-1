@@ -28,6 +28,18 @@
           <attribute id="UUID" type="guid" value="3eda8901-c3f1-494f-aa15-d95239d4ecbe"/>
           <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
         </node>
+               <node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="1"/>
+          <attribute id="BodyType" type="uint8" value="0"/>
+          <attribute id="CloseUpA" type="LSString" value="HUM_MB_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="HUM_MB_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
+          <attribute id="RootTemplate" type="guid" value="2e2c1741-7847-4a52-b144-3b45e9fce33f"/>
+					<attribute id="SubRaceUUID" type="guid" value="858dbb10-8395-4a49-903b-def66a945420"/>
+          <attribute id="UUID" type="guid" value="fd7d5bd8-23a0-4426-b21e-942a13d79c3b"/>
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+        </node>
       </children>
     </node>
   </region>
