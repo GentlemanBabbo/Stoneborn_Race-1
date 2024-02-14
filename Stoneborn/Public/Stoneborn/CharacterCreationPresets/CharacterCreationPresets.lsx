@@ -3,7 +3,8 @@
   <version major="4" minor="0" revision="0" build="47"/>
   <region id="CharacterCreationPresets">
     <node id="root">
-      <children> Earthmother
+      <children> 
+          Earthmother
 				<node id="CharacterCreationPreset"> F
           <attribute id="BodyShape" type="uint8" value="0"/> 0 means smol, 1 means stronk
           <attribute id="BodyType" type="uint8" value="1"/> 1 means wimmin, 0 means man
@@ -28,7 +29,7 @@
           <attribute id="UUID" type="guid" value="3eda8901-c3f1-494f-aa15-d95239d4ecbe"/>
           <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
         </node>
-        Goliath
+          Goliath
         <node id="CharacterCreationPreset"> F
           <attribute id="BodyShape" type="uint8" value="0"/>
           <attribute id="BodyType" type="uint8" value="1"/>

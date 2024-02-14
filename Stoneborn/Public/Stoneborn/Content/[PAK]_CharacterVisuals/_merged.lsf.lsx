@@ -115,7 +115,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Private Parts" />
-							<attribute id="VisualResource" type="FixedString" value="1f07d7e4-e0a1-3114-93ae-dd2f0bdfc0b0" />
+							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -166,7 +166,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Private Parts" />
-							<attribute id="VisualResource" type="FixedString" value="aa5de80e-ae92-33b0-b32f-0119db775761" />
+							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -181,7 +181,7 @@
 					</children>
 				</node>
 				<node id="Resource"> Goliath
-					<attribute id="BaseVisual" type="FixedString" value="8b6061bf-f71c-9496-bd22-6b5eb1998ddc" />
+					<attribute id="BaseVisual" type="FixedString" value="a75fb725-497c-bc68-2b61-95922e747cf6" />
 					<attribute id="BodySetVisual" type="FixedString" value="9b581729-3228-4a16-aeb2-8dc98cc8ac75" />
 					<attribute id="ID" type="FixedString" value="9f0fa08b-5731-441c-86ef-498579c0b111" />
 					<attribute id="Name" type="LSString" value="Main_Male_Goliath_Player" />
@@ -212,12 +212,12 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="37c9f1e5-8d41-44e9-beae-d5e39a860866" />
+							<attribute id="VisualResource" type="FixedString" value="db28232e-e8e2-4cbb-bd2a-bfa080ada0fa" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Private Parts" />
-							<attribute id="VisualResource" type="FixedString" value="aa5de80e-ae92-33b0-b32f-0119db775761" />
+							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
