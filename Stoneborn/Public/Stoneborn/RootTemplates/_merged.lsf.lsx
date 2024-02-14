@@ -115,17 +115,42 @@
 					</children>
 				</node>
 				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="3d8122a2-e764-490a-b137-2d2dc54d32ba" /> must be unique
+					<attribute id="Name" type="LSString" value="Stoneborn_Female_Goliath_Player" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="9011406c-1207-42b1-8097-def9daa48b7f" /> inherits from normal Dryad body
+					<attribute id="Icon" type="FixedString" value="eb370ddf-f7a4-4349-116e-f489556bab1d-_(Icon_Human_Female_Strong)" />
+					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> stronk armour set
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="2558d490-5cf9-4d6e-ad36-91f3b0f67af7" /> which models to load
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
+					<attribute id="Race" type="guid" value="4b571ca6-3b3d-4664-9d4c-672e6dd11274" /> define race as Custom Race
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="0eb01438-0f1c-4b68-9acb-c16b4fd95864" /> Custom Sub Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="7a313531-421c-4147-b415-5fd35c68b258" />
 					<attribute id="Name" type="LSString" value="Stoneborn_Male_Goliath_Player" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="0037e998-bfbe-4a4e-beb5-5c8ac2342846" />
-					<attribute id="Flag" type="int32" value="0" />
-					<attribute id="Icon" type="FixedString" value="f0c009b2-7868-784e-f2fc-dde5ac934aba-_(Icon_Elf_Male)" />
-					<attribute id="Stats" type="FixedString" value="HeroElfMale" />
+					<attribute id="ParentTemplateId" type="FixedString" value="2e2c1741-7847-4a52-b144-3b45e9fce33f" />
+					<attribute id="Icon" type="FixedString" value="dbe45e58-e009-91ae-91f1-e5311cbef090-_(Icon_Human_Male_Strong)" />
+					<attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />stronk armour set
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="c9e9c308-4649-4616-b625-63ecd94f7be5" />
-					<attribute id="PortraitVisualResourceID" type="FixedString" value="f7af9f10-cd33-3b88-e96a-d52952e81f5b" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="9f0fa08b-5731-441c-86ef-498579c0b111" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
 					<attribute id="Race" type="guid" value="4b571ca6-3b3d-4664-9d4c-672e6dd11274" />
 					<children>
 						<node id="SpeakerGroupList">

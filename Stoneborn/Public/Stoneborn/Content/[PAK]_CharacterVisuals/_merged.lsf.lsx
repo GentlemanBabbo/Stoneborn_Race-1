@@ -161,7 +161,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="8f4745d5-05f9-5b10-bc55-a60ac40d985e" />
+							<attribute id="VisualResource" type="FixedString" value="37c9f1e5-8d41-44e9-beae-d5e39a860866" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -182,10 +182,10 @@
 				</node>
 				<node id="Resource"> Goliath
 					<attribute id="BaseVisual" type="FixedString" value="8b6061bf-f71c-9496-bd22-6b5eb1998ddc" />
-					<attribute id="BodySetVisual" type="FixedString" value="41ea3913-f9b1-4a7f-b441-c73486a27c3b" />
+					<attribute id="BodySetVisual" type="FixedString" value="9b581729-3228-4a16-aeb2-8dc98cc8ac75" />
 					<attribute id="ID" type="FixedString" value="9f0fa08b-5731-441c-86ef-498579c0b111" />
 					<attribute id="Name" type="LSString" value="Main_Male_Goliath_Player" />
-					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
 					<children>
 						<node id="MaterialOverrides">
@@ -212,7 +212,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="8f4745d5-05f9-5b10-bc55-a60ac40d985e" />
+							<attribute id="VisualResource" type="FixedString" value="37c9f1e5-8d41-44e9-beae-d5e39a860866" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />

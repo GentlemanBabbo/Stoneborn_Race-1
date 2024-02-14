@@ -506,7 +506,7 @@
 	<region id="VisualBank">
 		<node id="VisualBank">
 			<children>
-			<!--Dryad Male Body-->
+			<!--Earthmother Male Body-->
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
