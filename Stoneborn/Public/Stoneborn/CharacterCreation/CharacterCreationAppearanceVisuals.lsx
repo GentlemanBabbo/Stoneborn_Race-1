@@ -111,6 +111,45 @@
                         </node>
                     </children>
                 </node>
+
+        <!--Horns-->
+
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h96e9d58fgbc1eg4f62gb768ge04fb84b80ac" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
+                    <attribute id="SlotName" type="FixedString" value="Horns"/>
+                    <attribute id="UUID" type="guid" value="84f5b856-c7d2-41aa-8f5f-017f7dc33037"/>
+                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h061f924cgacd7g427ega55dgdf0212f9b29e" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
+                    <attribute id="SlotName" type="FixedString" value="Horns"/>
+                    <attribute id="UUID" type="guid" value="f109bd76-9ddf-450a-8388-fd8aa9e33a89"/>
+                    <attribute id="VisualResource" type="guid" value="10d3e2b9-cde6-a3f8-3ff3-60aa9b0305c1"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="he684dc88gdfc4g44b8g8c4bg5f6e034a28b5" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
+                    <attribute id="SlotName" type="FixedString" value="Horns"/>
+                    <attribute id="UUID" type="guid" value="7edf9d10-9f37-457b-80fb-96cbff48a6f4"/>
+                    <attribute id="VisualResource" type="guid" value="f975dc5b-8bf4-030e-fafd-c7912bcf02e8"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h0b59589eg8e93g4c7eg86b3g9c71e2bb989a" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
+                    <attribute id="SlotName" type="FixedString" value="Horns"/>
+                    <attribute id="UUID" type="guid" value="48a75987-0465-46f1-affa-bdc889576edc"/>
+                    <attribute id="VisualResource" type="guid" value="730bc299-e8e9-f793-aa6a-1baf259cced8"/>
+                </node>
       </children>
     </node>
   </region>
