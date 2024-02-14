@@ -10,7 +10,7 @@
 					<attribute id="ID" type="FixedString" value="01a192d2-38d8-4e8d-b837-9244b13cfd66" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="BASE_Main_Male_Stoneborn" />
-					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725056" />
 					<children>
 						<node id="MaterialOverrides">
@@ -49,7 +49,7 @@
 					<attribute id="ID" type="FixedString" value="58b3a456-445d-4253-8957-0426ce30ff38" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="BASE_Main_Female_Stoneborn" />
-					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725056" />
 					<children>
 						<node id="MaterialOverrides">
@@ -78,7 +78,7 @@
 					<attribute id="BodySetVisual" type="FixedString" value="774a9359-3d67-4021-b32f-6c229d709741" />
 					<attribute id="ID" type="FixedString" value="f0b73219-d714-4ec3-97eb-c91ea5a388bb" />
 					<attribute id="Name" type="LSString" value="Main_Female_Earthmother_Player" />
-					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
 					<children>
 						<node id="MaterialOverrides">
@@ -134,7 +134,7 @@
 					<attribute id="BodySetVisual" type="FixedString" value="41ea3913-f9b1-4a7f-b441-c73486a27c3b" />
 					<attribute id="ID" type="FixedString" value="c9e9c308-4649-4616-b625-63ecd94f7be5" />
 					<attribute id="Name" type="LSString" value="Main_Male_Earthmother_Player" />
-					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
 					<children>
 						<node id="MaterialOverrides">
