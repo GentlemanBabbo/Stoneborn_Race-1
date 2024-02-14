@@ -4,7 +4,7 @@
 	<region id="MaterialBank">
 		<node id="MaterialBank">
 			<children>
-			<!--Dryad Male Body-->
+			<!--Earthmother Male Body-->
 				<node id="Resource">
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
 					<attribute id="ID" type="FixedString" value="5c922b80-328e-4f4a-915b-51efefd41975" />
