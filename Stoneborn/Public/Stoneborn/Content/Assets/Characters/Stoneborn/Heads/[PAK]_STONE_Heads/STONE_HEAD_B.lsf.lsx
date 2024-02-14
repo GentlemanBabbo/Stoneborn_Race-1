@@ -2443,7 +2443,7 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="ae9323ad-5558-40ef-b58d-e46b27980d32" />
+							<attribute id="MaterialID" type="FixedString" value="ff3eeaa1-454f-2053-8bbc-be7832c420dd" />
 							<attribute id="ObjectID" type="FixedString" value="Stoneborn_MS_Head_B.1_STONE_MS_NKD_Head_B_Mesh.0" />
 						</node>
 						<node id="Objects">
@@ -2458,7 +2458,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="ae9323ad-5558-40ef-b58d-e46b27980d32" />
+							<attribute id="MaterialID" type="FixedString" value="ff3eeaa1-454f-2053-8bbc-be7832c420dd" />
 							<attribute id="ObjectID" type="FixedString" value="Stoneborn_MS_Head_B.4_STONE_MS_NKD_Head_B_Ears_Mesh.3" />
 						</node>
 						<node id="Objects">

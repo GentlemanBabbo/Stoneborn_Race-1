@@ -535,8 +535,18 @@
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="5c922b80-328e-4f4a-915b-51efefd41975" />
+							<attribute id="MaterialID" type="FixedString" value="ff3eeaa1-454f-2053-8bbc-be7832c420dd" />
 							<attribute id="ObjectID" type="FixedString" value="Stoneborn_MS_NKD.STONE_MS_NKD_Body_A_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="ff3eeaa1-454f-2053-8bbc-be7832c420dd" />
+							<attribute id="ObjectID" type="FixedString" value="Stoneborn_MS_NKD.STONE_MS_NKD_Body_A_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="ff3eeaa1-454f-2053-8bbc-be7832c420dd" />
+							<attribute id="ObjectID" type="FixedString" value="Stoneborn_MS_NKD.STONE_MS_NKD_Body_A_Mesh.2" />
 						</node>
 					</children>
 				</node>
