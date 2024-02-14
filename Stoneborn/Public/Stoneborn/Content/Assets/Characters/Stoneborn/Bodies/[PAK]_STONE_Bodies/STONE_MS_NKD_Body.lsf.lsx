@@ -540,7 +540,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="c901c5ab-8931-2344-7e69-b9749c114b4e" />
+							<attribute id="MaterialID" type="FixedString" value="6e22e793-7992-6cdf-5f01-a02bb1e4d02d" />
 							<attribute id="ObjectID" type="FixedString" value="Stoneborn_MS_NKD.STONE_MS_NKD_Body_A_Mesh.1" />
 						</node>
 						<node id="Objects">
