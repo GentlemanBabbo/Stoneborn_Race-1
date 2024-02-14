@@ -2377,7 +2377,7 @@
 		<node id="AnimationSetBank">
 			<children>
 				<node id="Resource">
-					<attribute id="ID" type="FixedString" value="cae7c0a4-4743-4d95-b9f1-6ebc4b14ec82" />
+					<attribute id="ID" type="FixedString" value="d8d16864-cf07-4476-9e70-7533223d397c" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="Stoneborn_MS_Head_D" />
 					<attribute id="PreviewVisualResourceID" type="guid" value="00000000-0000-0000-0000-000000000000" />
