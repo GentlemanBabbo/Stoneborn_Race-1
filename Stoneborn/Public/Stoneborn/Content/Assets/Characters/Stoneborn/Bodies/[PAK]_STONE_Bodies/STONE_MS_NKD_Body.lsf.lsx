@@ -659,6 +659,11 @@
 							<attribute id="MaterialID" type="FixedString" value="dbfa4d05-b932-0e2a-666c-38b64b727f11" />
 							<attribute id="ObjectID" type="FixedString" value="Stoneborn_MS_NKD.STONE_MS_NKD_Body_A_Mesh.2" />
 						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" /> Hands
+							<attribute id="MaterialID" type="FixedString" value="7a3aecb3-c997-47d0-912a-12d3dec707b3" />
+							<attribute id="ObjectID" type="FixedString" value="Stoneborn_MS_NKD.STONE_MS_NKD_Body_A_Mesh.3" />
+						</node>
 					</children>
 				</node>
 			</children>
