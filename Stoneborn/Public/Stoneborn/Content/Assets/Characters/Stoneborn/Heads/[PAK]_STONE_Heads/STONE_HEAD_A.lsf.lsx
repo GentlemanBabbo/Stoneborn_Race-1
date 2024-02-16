@@ -2431,7 +2431,7 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="ae9323ad-5558-40ef-b58d-e46b27980d32" />
+							<attribute id="MaterialID" type="FixedString" value="7a3aecb3-c997-47d0-912a-12d3dec707b3" />
 							<attribute id="ObjectID" type="FixedString" value="GOLEM_M_NKD_HEAD_A.1_GOLEM_M_NKD_Head_D_Mesh.0" />
 						</node>
 						<node id="Objects">
@@ -2446,7 +2446,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="ae9323ad-5558-40ef-b58d-e46b27980d32" />
+							<attribute id="MaterialID" type="FixedString" value="7a3aecb3-c997-47d0-912a-12d3dec707b3" />
 							<attribute id="ObjectID" type="FixedString" value="GOLEM_M_NKD_HEAD_A.4_STONE_M_NKD_Head_D_Ears_Mesh.3" />
 						</node>
 						<node id="Objects">
