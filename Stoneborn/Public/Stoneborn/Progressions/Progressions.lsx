@@ -8,16 +8,8 @@
                   <attribute id="Level" type="uint8" value="1" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Stoneborn" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="Trips_Custom_Race_Passives" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="SelectSpells(4d519463-7eb5-4205-938d-7c2fad76c65a,2,0,,,,AlwaysPrepared);AddSpells(ffe9327b-1d5f-4f29-aa2d-f0bf9783c08b);SelectSkills(7e4f848f-b379-45c7-b5bf-61415d77c70c,2);SelectPassives(3933da0d-897a-4fd4-b37c-408c1afde2d3,2,RacialFeats)" />see below for explanation
-                  
-                  This links to the SpellLists.lsx, specifically a group of a spells, the 2 stands for how many spells you can pick from the list
-                  
-                  This also links to the SpellLists.lsx, but doesn't offer an option to pick and choose, instead gives every entry within said list.
-                  
-                  This links to the SkillLists.lsx, this example allows you to pick 2 from the list of skills provided.
-                  
-                  This links to the PassiveLists.lsx, the 2 means the amount of options you need to pick.
+                  <attribute id="PassivesAdded" type="LSString" value="Passive_Stone_Skin,Stoneborn_EarthenResilience,Passive_BrickandMortar" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="AddSpells(faa752b9-daab-46ea-aaa3-7a462f845d56);SelectSkills(4d2a1f84-2dad-4bff-ad33-f8a6357b5d1e,2)" />see below for explanation
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="6e7f3aba-9980-4a10-baca-0939f2f8d314" /> Always use this one for races.lsx, says this progression node is for Main Race
                   <attribute id="UUID" type="guid" value="37b93218-63d2-4b75-a70f-b68aed3c8b20" />  this one must be unique
@@ -25,7 +17,7 @@
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="3" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Stoneborn" /> just an internal name
-                  <attribute id="Boosts" type="LSString" value="" /> 
+                  <attribute id="Boosts" type="LSString" value="LONG_JUMP" /> 
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" /> this is a single spell being added
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
@@ -35,7 +27,7 @@
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="1" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Earthmother" /> just an internal name
-                  <attribute id="Boosts" type="LSString" value="" /> 
+                  <attribute id="Boosts" type="LSString" value="BOOST_FORTRESS" /> 
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" /> you can add spells here
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
@@ -45,7 +37,7 @@
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="1" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Goliath" /> just an internal name
-                  <attribute id="Boosts" type="LSString" value="" /> 
+                  <attribute id="Boosts" type="LSString" value="BOOST_FORTRESS" /> 
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" /> you can add spells here
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
