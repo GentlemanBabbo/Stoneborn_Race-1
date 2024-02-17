@@ -651,12 +651,12 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" /> Heart
-							<attribute id="MaterialID" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
+							<attribute id="MaterialID" type="FixedString" value="c47fba68-dbd5-a405-6535-2155ff08ba6f" />
 							<attribute id="ObjectID" type="FixedString" value="Stoneborn_MS_NKD.STONE_MS_NKD_Body_A_Mesh.1" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" /> Accents
-							<attribute id="MaterialID" type="FixedString" value="dbfa4d05-b932-0e2a-666c-38b64b727f11" />
+							<attribute id="MaterialID" type="FixedString" value="eb3caa8a-891f-8d4c-7d45-aa3c3865ff94" />
 							<attribute id="ObjectID" type="FixedString" value="Stoneborn_MS_NKD.STONE_MS_NKD_Body_A_Mesh.2" />
 						</node>
 						<node id="Objects">
