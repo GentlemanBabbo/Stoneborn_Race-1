@@ -1,3 +1,21 @@
+<!--------------------- Stoneborn Character Entries --------------------->
+
+new entry "Playable_M_Stoneborn"
+type "Character"
+using "_Humanoid"
+data "DefaultBoosts" "ScaleMultiplier(1.33)"
+data "GameSize" "Large"
+data "Weight" "135"
+data "StepsType" "Bare"
+
+new entry "Playable_F_Stoneborn"
+type "Character"
+using "_Hero"
+data "DefaultBoosts" "ScaleMultiplier(1.33)"
+data "GameSize" "Large"
+data "Weight" "135"
+data "StepsType" "Bare"
+
 <!--------------------- Stoneborn Passives --------------------->
 
 new entry "Passive_Mountain"
@@ -5,7 +23,7 @@ type "PassiveData"
 data "Icon" "statIcons_HillGiantsMight"
 data "DisplayName" "hdc1766e2g45a5g49bcga862g46cb3f067477"
 data "Description" "h5354a700g2ee6g456cgbb8fg8066092e2228"
-data "Boosts" "CarryCapacityMultiplier(1.25);WeightCategory(+1)"
+data "Boosts" "CarryCapacityMultiplier(1.5);WeightCategory(+1)"
 data "Properties" "Highlighted"
 
 new entry "Passive_Ironhand"
@@ -32,22 +50,6 @@ data "Description" "h86c40fc3g57d6g4950g97c8g53e7f5424952;1"
 data "Icon" "PassiveFeature_Duergar_DwarvenResilience"
 data "Properties" "Highlighted"
 data "Boosts" "Resistance(Poison, Resistant);Tag(POISONED_ADV)"
-
-new entry "Playable_M_Stoneborn"
-type "Character"
-using "_Hero"
-data "DefaultBoosts" "ScaleMultiplier(1.33)"
-data "GameSize" "Medium"
-data "Weight" "136"
-data "StepsType" "Bare"
-
-new entry "Playable_F_Stoneborn"
-type "Character"
-using "_Hero"
-data "DefaultBoosts" "ScaleMultiplier(1.33)"
-data "GameSize" "Medium"
-data "Weight" "136"
-data "StepsType" "Bare"
 
 new entry "Passive_BrickandMortar"
 type "PassiveData"

@@ -152,6 +152,7 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="9f0fa08b-5731-441c-86ef-498579c0b111" />
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
 					<attribute id="Race" type="guid" value="4b571ca6-3b3d-4664-9d4c-672e6dd11274" />
+					<attribute id="Stats" type="FixedString" value="Playable_M_Stoneborn" />
 					<children>
 						<node id="SpeakerGroupList">
 							<children>
@@ -167,7 +168,6 @@
 							<children>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="0eb01438-0f1c-4b68-9acb-c16b4fd95864" />
-									<attribute id="Stats" type="FixedString" value="Stoneborn" />
 								</node>
 							</children>
 						</node>
