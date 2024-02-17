@@ -167,6 +167,7 @@
 							<children>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="0eb01438-0f1c-4b68-9acb-c16b4fd95864" />
+									<attribute id="Stats" type="FixedString" value="Stoneborn" />
 								</node>
 							</children>
 						</node>
