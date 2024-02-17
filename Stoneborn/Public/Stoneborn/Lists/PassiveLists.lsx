@@ -5,7 +5,7 @@
     <node id="root">
       <children>
         <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="Passive_Stone_Skin,Stoneborn_EarthenResilience,Playable_M_Stoneborn,Playable_F_Stoneborn,Passive_BrickandMortar,LONG_JUMP,BOOST_FORTRESS" /> the passive list
+                    <attribute id="Passives" type="LSString" value="Passive_Mountain,Passive_Ironhand,Passive_Stone_Skin,Stoneborn_EarthenResilience,Playable_M_Stoneborn,Playable_F_Stoneborn,Passive_BrickandMortar,LONG_JUMP,BOOST_FORTRESS" /> the passive list
                     <attribute id="UUID" type="guid" value="3ec681f8-15bb-4a34-8f86-1079ea59d321" /> the UUID, needs to be unique
                 </node>
       </children>
