@@ -14,6 +14,10 @@
             <attribute id="RaceSoundSwitch" type="FixedString" value="Dwarf" />           sound it makes when you select the race
             <attribute id="UUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491" /> Race UUID, keep this for adding hairs etc
                 <children>
+                        <!--Flame Orange 3-->
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="5611997a-c98d-4f91-aa61-331df5fbf00f" />
+                        </node>
                         <node id="EyeColors">
                             <attribute id="Object" type="guid" value="b3ff0d4e-50c3-442e-3d8b-e30a5cf73368" />
                         </node>

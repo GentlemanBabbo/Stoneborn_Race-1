@@ -2448,7 +2448,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="c901c5ab-8931-2344-7e69-b9749c114b4e" />
+							<attribute id="MaterialID" type="FixedString" value="c47fba68-dbd5-a405-6535-2155ff08ba6f" />
 							<attribute id="ObjectID" type="FixedString" value="Stoneborn_MS_Head_D.2_STONE_MS_NKD_Head_D_Mouth_Interior_Mesh.1" />
 						</node>
 						<node id="Objects">

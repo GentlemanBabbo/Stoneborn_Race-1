@@ -2436,7 +2436,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+							<attribute id="MaterialID" type="FixedString" value="c47fba68-dbd5-a405-6535-2155ff08ba6f" />
 							<attribute id="ObjectID" type="FixedString" value="GOLEM_M_NKD_HEAD_A.2_GOLEM_M_NKD_Head_D_Mouth_Interior_Mesh.1" />
 						</node>
 						<node id="Objects">
