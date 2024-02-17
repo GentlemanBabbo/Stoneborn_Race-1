@@ -629,7 +629,7 @@
 					<attribute id="HairType" type="uint8" value="0" />
 					<attribute id="ID" type="FixedString" value="bda2b487-c6b3-43fd-9da1-83de8b1df4e3" />
 					<attribute id="MaterialType" type="uint8" value="18" />
-					<attribute id="Name" type="LSString" value="GOLEM_FS_NKD" />
+					<attribute id="Name" type="LSString" value="GOLIATH_FS_NKD" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="RemapperSlotId" type="FixedString" value="" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
@@ -646,7 +646,7 @@
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" /> Body
-							<attribute id="MaterialID" type="FixedString" value="7a3aecb3-c997-47d0-912a-12d3dec707b3" />
+							<attribute id="MaterialID" type="FixedString" value="71729fed-2fd9-4351-866e-ce6b353eba33" />
 							<attribute id="ObjectID" type="FixedString" value="Stoneborn_FS_NKD.1_STONE_FS_NKD_Mesh.0" />
 						</node>
 						<node id="Objects">

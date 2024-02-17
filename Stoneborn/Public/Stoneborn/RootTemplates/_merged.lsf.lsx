@@ -122,9 +122,10 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="9011406c-1207-42b1-8097-def9daa48b7f" /> inherits from normal Dryad body
 					<attribute id="Icon" type="FixedString" value="eb370ddf-f7a4-4349-116e-f489556bab1d-_(Icon_Human_Female_Strong)" />
 					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> stronk armour set
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="2558d490-5cf9-4d6e-ad36-91f3b0f67af7" /> which models to load
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="5a67d682-0826-47f4-b0f0-51fc81a58194" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
 					<attribute id="Race" type="guid" value="4b571ca6-3b3d-4664-9d4c-672e6dd11274" /> define race as Custom Race
+					<attribute id="Stats" type="FixedString" value="Playable_F_Stoneborn" />
 					<children>
 						<node id="Tags">
 							<children>
