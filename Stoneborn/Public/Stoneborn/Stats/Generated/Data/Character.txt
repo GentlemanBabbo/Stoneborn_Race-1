@@ -1,0 +1,5 @@
+new entry "Stoneborn"
+type "Character"
+using "_Humanoid"
+data "Weight" "133"
+data "Passives" "AttackOfOpportunity"

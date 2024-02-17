@@ -1,5 +1,23 @@
 <!--------------------- Stoneborn Passives --------------------->
 
+new entry "Passive_Mountain"
+type "PassiveData"
+data "Icon" "statIcons_HillGiantsMight"
+data "DisplayName" "hdc1766e2g45a5g49bcga862g46cb3f067477"
+data "Description" "h5354a700g2ee6g456cgbb8fg8066092e2228"
+data "Boosts" "CarryCapacityMultiplier(1.25);WeightCategory(+1)"
+data "Properties" "Highlighted"
+
+new entry "Passive_Ironhand"
+type "PassiveData"
+data "Icon" "Action_KnockOut"
+data "DisplayName" "hc49e38b2g457bg4e99gaeb5ge34059c068f7;2"
+data "Description" "ha0a588acgfd53g4551g9dd2g0de71f46db25;4"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "IsUnarmedAttack() and HasDamageEffectFlag(DamageFlags.Hit) and IsMeleeAttack() and not IsMiss()"
+data "StatsFunctors" "IF(IsAttackType(AttackType.MeleeUnarmedAttack)):DealDamage(1d8, Bludgeoning)"
+data "Properties" "Highlighted"
+
 new entry "Passive_Stone_Skin"
 type "PassiveData"
 data "DisplayName" "hbde870dfg5487g487aga133gb750ddd3c783"
