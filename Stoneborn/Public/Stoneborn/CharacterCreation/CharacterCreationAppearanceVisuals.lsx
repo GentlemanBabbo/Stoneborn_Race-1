@@ -124,6 +124,19 @@
 				Dragonborn: 9c61a74a-20df-4119-89c5-d996956b6c66 
 				Half-Orc: 5c39a726-71c8-4748-ba8d-f768b3c11a91-->
 
+		<!--Hair -->
+		Hair A
+		        <node id="CharacterCreationAppearanceVisual">
+				<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
+				<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
+				<attribute id="DisplayName" type="TranslatedString" handle="h088cba85gc6ddg4512g80ceg82d78f4c6185" version="1" />
+				<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
+				<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
+				<attribute id="UUID" type="guid" value="e2237582-3aea-4689-8986-0134aea4b0e0" /> <!-- must be unique -->
+				<attribute id="VisualResource" type="guid" value="30e16e6c-5b8b-48f8-bd9c-e74cca2b13a5" />
+					<!-- Match the ID line in the Hair merged in this template it is Public\Autosnapping_Template\Content\Assets\Characters\[PAK]_Hair\_merged.lsf.lsx -->
+        </node>
+
 		<!--Fake Genitals-->
             
                 <node id="CharacterCreationAppearanceVisual"> M
