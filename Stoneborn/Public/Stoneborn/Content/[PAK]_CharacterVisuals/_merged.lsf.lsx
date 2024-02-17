@@ -210,6 +210,7 @@
 							</children>
 						</node>
 					</children>
+				</node>
 				<node id="Resource"> Goliath
 					<attribute id="BaseVisual" type="FixedString" value="a75fb725-497c-bc68-2b61-95922e747cf6" />
 					<attribute id="BodySetVisual" type="FixedString" value="bda2b487-c6b3-43fd-9da1-83de8b1df4e3" />
