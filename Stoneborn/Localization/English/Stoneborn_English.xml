@@ -22,9 +22,9 @@
 	<content contentuid="h079202a2g59a0g4eafga894ga3fac337f86f" version="1">Broken off from the crust of the world, your body is tougher than most all else. Your armor is set to 15 + your Constitution modifier when wearing no armor.</content>
 	<content contentuid="h7f0550c2g0cc2g4943g9202ge396270ff578" version="1">Fortress</content>
 	<content contentuid="h92909f3ag9c8bg428dgb34ag6f41be893c90" version="1">They would wound you if they could make a dent. Damaged is reduced if the type of damage is Slashing or Piercing.</content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
+	<content contentuid="hdc1766e2g45a5g49bcga862g46cb3f067477" version="1">Mountain</content>
+	<content contentuid="h5354a700g2ee6g456cgbb8fg8066092e2228" version="1">Your build speaks for itself. You are an extra size larger than most others, and you have an increased carrying capacity.</content>
+	<content contentuid="hc49e38b2g457bg4e99gaeb5ge34059c068f7" version="1">Ironhand</content>
+	<content contentuid="ha0a588acgfd53g4551g9dd2g0de71f46db25" version="1">Your fists were forged for battle. Unarmed attacks have an increase of 1d8 Bludgeoning damage.</content>
 	<content contentuid="" version="1"></content>
 </contentList>
