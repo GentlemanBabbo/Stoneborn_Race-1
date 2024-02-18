@@ -4,7 +4,7 @@
     <region id="VisualBank"> <!-- you only need VisualBank if you don't plan on making custom textures or materials  -->
             <node id="VisualBank">
                 <children>
-                    <node id="Resource"> Mushroom Hair B
+                    <node id="Resource"> Mushroom Hair B MS
                         <attribute id="AttachBone" type="FixedString" value="" />
                         <attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
                         <attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
@@ -61,7 +61,7 @@
                             </node>
                         </children>
                     </node>
-                    <node id="Resource"> Mushroom Hair B
+                    <node id="Resource"> Mushroom Hair B FS
                         <attribute id="AttachBone" type="FixedString" value="" />
                         <attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
                         <attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
