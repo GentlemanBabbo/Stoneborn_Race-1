@@ -72,7 +72,7 @@
                         <attribute id="HairPresetResourceId" type="FixedString" value="" />
                         <!-- ^ Either use from a hair you like (how much frizz it has, how much wind affects it, etc) or make your own.-->
                         <attribute id="HairType" type="uint8" value="0" />
-                        <attribute id="ID" type="FixedString" value="5b823b01-bd5a-4cad-a146-2eb783c01eda" />
+                        <attribute id="ID" type="FixedString" value="176af87a-ce79-4bf9-a8c0-c0cf6222d86d" />
                         <!-- ^ Make a new UUID and make sure it matches VisualResourceID in CharacterCreationAppearanceVisuals. -->
                         <attribute id="Initialized" type="bool" value="True" />
                         <attribute id="Localized" type="bool" value="False" />
