@@ -168,7 +168,7 @@
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="1242383c-473d-4314-a172-bf5f9e883db7" /> <!-- must be unique -->
-					<attribute id="VisualResource" type="guid" value="eaf1f77f-74a9-40fb-91ee-e9723b259c57" />
+					<attribute id="VisualResource" type="guid" value="9a840856-493b-46d5-82cd-76f0aec5a04d" />
 					<!-- Match the ID line in the Hair merged in this template it is Public\Autosnapping_Template\Content\Assets\Characters\[PAK]_Hair\_merged.lsf.lsx -->
         		</node>
 
@@ -179,7 +179,7 @@
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="8845873a-835f-4cd7-b28c-a92a6815a4bc" /> <!-- must be unique -->
-					<attribute id="VisualResource" type="guid" value="5b823b01-bd5a-4cad-a146-2eb783c01eda" />
+					<attribute id="VisualResource" type="guid" value="176af87a-ce79-4bf9-a8c0-c0cf6222d86d" />
 					<!-- Match the ID line in the Hair merged in this template it is Public\Autosnapping_Template\Content\Assets\Characters\[PAK]_Hair\_merged.lsf.lsx -->
         		</node>
 
