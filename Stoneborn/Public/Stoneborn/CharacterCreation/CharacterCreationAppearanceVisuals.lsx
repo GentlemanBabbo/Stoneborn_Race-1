@@ -314,7 +314,16 @@
 					<attribute id="VisualResource" type="guid" value="176af87a-ce79-4bf9-a8c0-c0cf6222d86d" />
 					<!-- Match the ID line in the Hair merged in this template it is Public\Autosnapping_Template\Content\Assets\Characters\[PAK]_Hair\_merged.lsf.lsx -->
         		</node>
-
+				<node id="CharacterCreationAppearanceVisual"> Side Part Hair
+					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
+					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
+					<attribute id="DisplayName" type="TranslatedString" handle="h30a4d9e5g7ba2g4c13g9de2g83ad6361d157" version="1" />
+					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
+					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
+					<attribute id="UUID" type="guid" value="e5ce82c3-756b-4636-8b2d-9b2a73d05b74" /> <!-- must be unique -->
+					<attribute id="VisualResource" type="guid" value="eb2ef6eb-0d2f-4e98-b7f2-b0a25e24093e" />
+					<!-- Match the ID line in the Hair merged in this template it is Public\Autosnapping_Template\Content\Assets\Characters\[PAK]_Hair\_merged.lsf.lsx -->
+        		</node>
 		<!--Fake Genitals-->
             
                 <node id="CharacterCreationAppearanceVisual"> M
