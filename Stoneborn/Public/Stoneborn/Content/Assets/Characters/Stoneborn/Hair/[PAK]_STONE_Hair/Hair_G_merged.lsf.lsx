@@ -90,7 +90,7 @@
                         <attribute id="Slot" type="FixedString" value="Hair" />
                         <!-- ^ This should stay as Hair... unless you're using my template to make horns or something. No judgement. :) -->
                         <attribute id="SoftbodyResourceID" type="FixedString" value="" />
-                        <attribute id="SourceFile" type="LSString" value="Generated/Public/Stoneborn/[PAK]_STONE_Autosnapping_Hair/Stoneborn_MS_Hair_G.GR2" />
+                        <attribute id="SourceFile" type="LSString" value="Generated/Public/Stoneborn/[PAK]_STONE_Autosnapping_Hair/Stoneborn_FS_Hair_G.GR2" />
                         <!-- ^ Make sure this matches your folder structure. -->
                         <attribute id="SupportsVertexColorMask" type="bool" value="False" />
                         <attribute id="Template" type="FixedString" value="Generated/Public/Stoneborn/[PAK]_STONE_Autosnapping_Hair/Stoneborn_FS_Hair_G.Dummy_Root.0" />
