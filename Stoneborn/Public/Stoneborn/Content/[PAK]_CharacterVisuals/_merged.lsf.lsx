@@ -180,7 +180,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource"> Goliath
+				<node id="Resource"> Goliath M
 					<attribute id="BaseVisual" type="FixedString" value="a75fb725-497c-bc68-2b61-95922e747cf6" />
 					<attribute id="BodySetVisual" type="FixedString" value="9b581729-3228-4a16-aeb2-8dc98cc8ac75" />
 					<attribute id="ID" type="FixedString" value="9f0fa08b-5731-441c-86ef-498579c0b111" />
@@ -245,8 +245,8 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource"> Goliath
-					<attribute id="BaseVisual" type="FixedString" value="a75fb725-497c-bc68-2b61-95922e747cf6" />
+				<node id="Resource"> Goliath F
+					<attribute id="BaseVisual" type="FixedString" value="738d6807-26d2-58e3-3906-e7b19347a124" />
 					<attribute id="BodySetVisual" type="FixedString" value="bda2b487-c6b3-43fd-9da1-83de8b1df4e3" />
 					<attribute id="ID" type="FixedString" value="5a67d682-0826-47f4-b0f0-51fc81a58194" />
 					<attribute id="Name" type="LSString" value="Main_Female_Goliath_Player" />
