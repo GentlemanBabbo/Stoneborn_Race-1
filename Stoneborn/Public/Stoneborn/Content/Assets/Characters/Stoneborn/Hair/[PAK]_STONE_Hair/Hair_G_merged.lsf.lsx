@@ -77,7 +77,7 @@
                         <attribute id="Initialized" type="bool" value="True" />
                         <attribute id="Localized" type="bool" value="False" />
                         <attribute id="MaterialType" type="uint8" value="0" />
-                        <attribute id="Name" type="LSString" value="Stoneborn_MS_Hair_G" />
+                        <attribute id="Name" type="LSString" value="Stoneborn_FS_Hair_G" />
                         <!-- ^ Name of your GR2. -->
                         <attribute id="NeedsSkeletonRemap" type="bool" value="False" />
                         <!-- ^ Change to false if not auto-snap. -->
@@ -93,7 +93,7 @@
                         <attribute id="SourceFile" type="LSString" value="Generated/Public/Stoneborn/[PAK]_STONE_Autosnapping_Hair/Stoneborn_MS_Hair_G.GR2" />
                         <!-- ^ Make sure this matches your folder structure. -->
                         <attribute id="SupportsVertexColorMask" type="bool" value="False" />
-                        <attribute id="Template" type="FixedString" value="Generated/Public/Stoneborn/[PAK]_STONE_Autosnapping_Hair/Stoneborn_MS_Hair_G.Dummy_Root.0" />
+                        <attribute id="Template" type="FixedString" value="Generated/Public/Stoneborn/[PAK]_STONE_Autosnapping_Hair/Stoneborn_FS_Hair_G.Dummy_Root.0" />
                         <!-- ^ Make sure this matches your folder structure, but with .Dummy_Root.0 at the end instead. -->
                         <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
                         <children>
@@ -102,7 +102,7 @@
                                 <attribute id="LOD" type="uint8" value="0" />
                                 <attribute id="MaterialID" type="FixedString" value="0bc673a1-ef2b-1f0e-909d-68c812881929" />
                                 <!-- ^ Use from a hair material you like. -->
-                                <attribute id="ObjectID" type="FixedString" value="Stoneborn_MS_Hair_G.Stoneborn_MS_Hair_G.0" />
+                                <attribute id="ObjectID" type="FixedString" value="Stoneborn_FS_Hair_G.Stoneborn_FS_Hair_G.0" />
                                 <!-- ^ Make sure this matches your GR2 name. The number at the end needs to be increased by 1 for each new Objects node you create. -->
                                 <attribute id="Physics" type="FixedString" value="" />
                                 <attribute id="Slot" type="FixedString" value="" />
@@ -111,7 +111,7 @@
                                 <attribute id="LOD" type="uint8" value="0" />
                                 <attribute id="MaterialID" type="FixedString" value="0bc673a1-ef2b-1f0e-909d-68c812881929" />
                                 <!-- ^ Use from a hair material you like. -->
-                                <attribute id="ObjectID" type="FixedString" value="Stoneborn_MS_Hair_G.Stoneborn_MS_Hair_G.1" />
+                                <attribute id="ObjectID" type="FixedString" value="Stoneborn_FS_Hair_G.Stoneborn_FS_Hair_G.1" />
                                 <!-- ^ Make sure this matches your GR2 name. The number at the end needs to be increased by 1 for each new Objects node you create. -->
                                 <attribute id="Physics" type="FixedString" value="" />
                                 <attribute id="Slot" type="FixedString" value="" />
