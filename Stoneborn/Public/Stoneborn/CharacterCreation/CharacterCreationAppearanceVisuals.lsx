@@ -569,18 +569,6 @@
                         </node>
                     </children>
                 </node>
-
-        <!--Horns-->
-
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h96e9d58fgbc1eg4f62gb768ge04fb84b80ac" version="1"/>
-                    <attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
-                    <attribute id="SlotName" type="FixedString" value="Horns"/>
-                    <attribute id="UUID" type="guid" value="84f5b856-c7d2-41aa-8f5f-017f7dc33037"/>
-                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
-                </node>
       </children>
     </node>
   </region>
