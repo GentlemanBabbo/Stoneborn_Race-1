@@ -127,7 +127,7 @@
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
 					<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
-                    <attribute id="DisplayName" type="TranslatedString" handle="h3df5c682gaf04g400bgb85bg0ebd8d5ce9b8" version="1"/> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf707ba84g762dg4b37gabebgc349386bc137" version="1"/> 
 					same as the handle in your Localization\English\custom_name_here.xml
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					The UUID for the race you're making the head for. See below for a list.
@@ -140,7 +140,7 @@
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
 					<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
-                    <attribute id="DisplayName" type="TranslatedString" handle="h3df5c682gaf04g400bgb85bg0ebd8d5ce9b8" version="1"/> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7d41ec39geb41g4092gb978gdd60173ccc91" version="1"/> 
 					same as the handle in your Localization\English\custom_name_here.xml
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					The UUID for the race you're making the head for. See below for a list.
@@ -180,7 +180,7 @@
 		        <node id="CharacterCreationAppearanceVisual">Fiery Hair A M
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="0" /> <!--0 = Masc 1 = Fem -->
-					<attribute id="DisplayName" type="TranslatedString" handle="h088cba85gc6ddg4512g80ceg82d78f4c6185" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="he436aed6ge5c2g4b60g86a9gc8831f56ade9" version="1" />
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="a351324d-f76b-4d6b-abd8-103f7a44acd4" /> <!-- must be unique -->
@@ -191,7 +191,7 @@
 				<node id="CharacterCreationAppearanceVisual">Mushroom Hair A M
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="0" /> <!--0 = Masc 1 = Fem -->
-					<attribute id="DisplayName" type="TranslatedString" handle="h088cba85gc6ddg4512g80ceg82d78f4c6185" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h343fcd33gb5b3g40aag88e9g93f2820d7f54" version="1" />
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="1242383c-473d-4314-a172-bf5f9e883db7" /> <!-- must be unique -->
@@ -202,7 +202,7 @@
 				<node id="CharacterCreationAppearanceVisual">Fiery Hair B M
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="0" /> <!--0 = Masc 1 = Fem -->
-					<attribute id="DisplayName" type="TranslatedString" handle="h088cba85gc6ddg4512g80ceg82d78f4c6185" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hee912eabg3315g4804gaa23g218619a7096e" version="1" />
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="1e9ac03d-6c2e-4c18-a2ed-2846ac357022" /> <!-- must be unique -->
@@ -213,7 +213,7 @@
 				<node id="CharacterCreationAppearanceVisual">Mushroom Hair B M
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="0" /> <!--0 = Masc 1 = Fem -->
-					<attribute id="DisplayName" type="TranslatedString" handle="h088cba85gc6ddg4512g80ceg82d78f4c6185" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hb8ccfa93ga795g488bg8991gb3252c59ee6f" version="1" />
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="b101f4ba-2947-4e45-8287-be6d6b395871" /> <!-- must be unique -->
@@ -224,7 +224,7 @@
 				<node id="CharacterCreationAppearanceVisual">Fiery Hair C M
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="0" /> <!--0 = Masc 1 = Fem -->
-					<attribute id="DisplayName" type="TranslatedString" handle="h088cba85gc6ddg4512g80ceg82d78f4c6185" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hb1f32b14gaac1g45bdg9105g86ba8eb38fa2" version="1" />
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="9836fb39-c630-4545-8ed6-fac8032421ab" /> <!-- must be unique -->
@@ -235,7 +235,7 @@
 				<node id="CharacterCreationAppearanceVisual">Mushroom Hair C M
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="0" /> <!--0 = Masc 1 = Fem -->
-					<attribute id="DisplayName" type="TranslatedString" handle="h088cba85gc6ddg4512g80ceg82d78f4c6185" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h99fde7c6gcdceg4634g89c8ge9cd664e6d5d" version="1" />
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="537688ed-d908-463e-969d-33bf74f3fe6f" /> <!-- must be unique -->
@@ -246,7 +246,7 @@
 				<node id="CharacterCreationAppearanceVisual">Mushrooms Hair M
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="0" /> <!--0 = Masc 1 = Fem -->
-					<attribute id="DisplayName" type="TranslatedString" handle="h088cba85gc6ddg4512g80ceg82d78f4c6185" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h29609a6eg874dg4b15gb338g18cf210feeff" version="1" />
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="8845873a-835f-4cd7-b28c-a92a6815a4bc" /> <!-- must be unique -->
@@ -267,7 +267,7 @@
 				<node id="CharacterCreationAppearanceVisual"> Side Part Hair Mushroom M
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="0" /> <!--0 = Masc 1 = Fem -->
-					<attribute id="DisplayName" type="TranslatedString" handle="h30a4d9e5g7ba2g4c13g9de2g83ad6361d157" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h6f3cdc5agf800g4131gbc9bg37efe79f03d1" version="1" />
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="056cb4fb-56d6-46a6-8dde-8b857a606b3d" /> <!-- must be unique -->
@@ -311,7 +311,7 @@
 				<node id="CharacterCreationAppearanceVisual">Fiery Hair A F
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
-					<attribute id="DisplayName" type="TranslatedString" handle="h088cba85gc6ddg4512g80ceg82d78f4c6185" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="he436aed6ge5c2g4b60g86a9gc8831f56ade9" version="1" />
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="4850d485-6b6c-41fc-89af-05a507334cd0" /> <!-- must be unique -->
@@ -322,7 +322,7 @@
 				<node id="CharacterCreationAppearanceVisual">Mushroom Hair A F
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
-					<attribute id="DisplayName" type="TranslatedString" handle="h088cba85gc6ddg4512g80ceg82d78f4c6185" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h343fcd33gb5b3g40aag88e9g93f2820d7f54" version="1" />
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="3d800ed0-bb49-48d8-878f-df6c3c6925fe" /> <!-- must be unique -->
@@ -333,7 +333,7 @@
 				<node id="CharacterCreationAppearanceVisual">Fiery Hair B F
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
-					<attribute id="DisplayName" type="TranslatedString" handle="h088cba85gc6ddg4512g80ceg82d78f4c6185" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hee912eabg3315g4804gaa23g218619a7096e" version="1" />
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="7840cac6-ca1d-45a6-bc00-c16e5a1a0d70" /> <!-- must be unique -->
@@ -344,7 +344,7 @@
 				<node id="CharacterCreationAppearanceVisual">Mushroom Hair B F
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
-					<attribute id="DisplayName" type="TranslatedString" handle="h088cba85gc6ddg4512g80ceg82d78f4c6185" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hb8ccfa93ga795g488bg8991gb3252c59ee6f" version="1" />
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="56a7a852-c2dc-4cab-85fc-a731881a7f2f" /> <!-- must be unique -->
@@ -355,7 +355,7 @@
 				<node id="CharacterCreationAppearanceVisual">Fiery Hair C F
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
-					<attribute id="DisplayName" type="TranslatedString" handle="h088cba85gc6ddg4512g80ceg82d78f4c6185" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hb1f32b14gaac1g45bdg9105g86ba8eb38fa2" version="1" />
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="b52f24b3-fef7-4103-adec-0b72d572c9ea" /> <!-- must be unique -->
@@ -366,7 +366,7 @@
 				<node id="CharacterCreationAppearanceVisual">Mushroom Hair C F
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
-					<attribute id="DisplayName" type="TranslatedString" handle="h088cba85gc6ddg4512g80ceg82d78f4c6185" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h99fde7c6gcdceg4634g89c8ge9cd664e6d5d" version="1" />
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="f71c2065-a781-4174-92a3-bc372a770bb4" /> <!-- must be unique -->
@@ -377,7 +377,7 @@
 				<node id="CharacterCreationAppearanceVisual">Mushrooms Hair F
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
-					<attribute id="DisplayName" type="TranslatedString" handle="h088cba85gc6ddg4512g80ceg82d78f4c6185" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h29609a6eg874dg4b15gb338g18cf210feeff" version="1" />
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="69aa04b2-a610-4abd-bbef-e0404cd88bb7" /> <!-- must be unique -->
@@ -397,7 +397,7 @@
 				<node id="CharacterCreationAppearanceVisual"> Side Part Hair Mushroom
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
-					<attribute id="DisplayName" type="TranslatedString" handle="h30a4d9e5g7ba2g4c13g9de2g83ad6361d157" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h6f3cdc5agf800g4131gbc9bg37efe79f03d1" version="1" />
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="49dca58d-a1d6-4c23-97e3-c892bdadf18c" /> <!-- must be unique -->
@@ -427,7 +427,7 @@
 				<node id="CharacterCreationAppearanceVisual"> Small Spikes Fire
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
-					<attribute id="DisplayName" type="TranslatedString" handle="h1a4fce30g458eg46d4g8d27gfde9f2dc40c4" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h5e69395eg3778g48b1g9187g8da3443274a2" version="1" />
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="650716be-fe55-401f-a7c0-4d579f970b3e" /> <!-- must be unique -->
@@ -437,7 +437,7 @@
 				<node id="CharacterCreationAppearanceVisual"> Small Spikes Mushroom
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
-					<attribute id="DisplayName" type="TranslatedString" handle="h1a4fce30g458eg46d4g8d27gfde9f2dc40c4" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h3f90a651gca8eg4e3cgb6dagd868853e9ac4" version="1" />
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="821b86a9-cc0e-497e-97b0-0f25f39edb49" /> <!-- must be unique -->
@@ -447,7 +447,7 @@
 				<node id="CharacterCreationAppearanceVisual"> Mane Fire
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
-					<attribute id="DisplayName" type="TranslatedString" handle="h1a4fce30g458eg46d4g8d27gfde9f2dc40c4" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h921bb974g38f1g4c7agbf63g9ed4073bb740" version="1" />
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="3130d749-3af5-452c-8677-55d1a997c16d" /> <!-- must be unique -->
@@ -457,7 +457,7 @@
 				<node id="CharacterCreationAppearanceVisual"> Mane Mushroom
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
-					<attribute id="DisplayName" type="TranslatedString" handle="h1a4fce30g458eg46d4g8d27gfde9f2dc40c4" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hc57bd6a2g0a71g4eebg80ecg8a156e6ec36b" version="1" />
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="b0e6ffc8-fe3c-4cd1-9e47-192ee34e4b34" /> <!-- must be unique -->
@@ -467,7 +467,7 @@
 				<node id="CharacterCreationAppearanceVisual"> Bramble Fire
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
-					<attribute id="DisplayName" type="TranslatedString" handle="h1a4fce30g458eg46d4g8d27gfde9f2dc40c4" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hb4083f22g7a1bg4cf0g86edg968248db1445" version="1" />
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="95e8d55c-478c-44c0-9dd9-0f8d4c8ea0a6" /> <!-- must be unique -->
@@ -477,7 +477,7 @@
 				<node id="CharacterCreationAppearanceVisual"> Bramble Mushroom
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
-					<attribute id="DisplayName" type="TranslatedString" handle="h1a4fce30g458eg46d4g8d27gfde9f2dc40c4" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h26735583gec16g482bgafa7g3ecd90409ce4" version="1" />
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="f8671a05-5b38-432c-84c2-65edfe088657" /> <!-- must be unique -->
@@ -487,7 +487,7 @@
 				<node id="CharacterCreationAppearanceVisual"> Side Crystal Fire
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
-					<attribute id="DisplayName" type="TranslatedString" handle="h1a4fce30g458eg46d4g8d27gfde9f2dc40c4" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="he6e8aa35g30c0g40fagaaf1ge2c193077a94" version="1" />
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="b4ee76a2-a5de-4faf-a025-db0020695efa" /> <!-- must be unique -->
@@ -497,7 +497,7 @@
 				<node id="CharacterCreationAppearanceVisual"> Side Crystal Mushroom
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
-					<attribute id="DisplayName" type="TranslatedString" handle="h1a4fce30g458eg46d4g8d27gfde9f2dc40c4" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h0b42cda2g273dg4221g9e9fg13b1c7573555" version="1" />
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="49bf444b-1e5d-4840-8726-2e60f6807c4a" /> <!-- must be unique -->
