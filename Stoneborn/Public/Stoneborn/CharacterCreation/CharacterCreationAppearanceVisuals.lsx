@@ -10,7 +10,7 @@
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
 					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
-                    <attribute id="DisplayName" type="TranslatedString" handle="h036f4fd4g95a5g4b55gb89cg69ea94ad5f60" version="1"/> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5f1daf71g5004g4606gbb76g650f73140c48" version="1"/> 
 					same as the handle in your Localization\English\custom_name_here.xml
 					<attribute id="IconIdOverride" type="FixedString" value="0_Head_37c9f1e5-8d41-44e9-beae-d5e39a860866"/> <!-- Matches the Map Key for the corresponding icon in ModName_Icons.lsx - I usually just take the hair's VisualResource UUID and stick a 0_Hair_ in front of it -->
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
