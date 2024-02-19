@@ -7,17 +7,17 @@
 				<node id="Resource">
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="DynamicPhysicsResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="ID" type="FixedString" value="d023ab31-8f9f-4d61-8d29-ad1cd385ad9e" />
+					<attribute id="ID" type="FixedString" value="fa58bbcf-acf1-41a9-a8aa-19d21529cfbe" />
 					<attribute id="IKRigResourceID" type="FixedString" value="f45d73e2-c30a-82c0-2e4b-f02e907f9550" />
 					<attribute id="MirrorTableResourceID" type="FixedString" value="" />
-					<attribute id="Name" type="LSString" value="GOLEM_M_NKD_HEAD_Base" />
+					<attribute id="Name" type="LSString" value="Stoneborn_MS_Head_Base" />
 					<attribute id="PreviewAnimationResource" type="FixedString" value="" />
 					<attribute id="PreviewVisualResource" type="FixedString" value="" />
 					<attribute id="RagdollResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Stoneborn/[PAK]_STONE_Head/STONE_HEAD_A/GOLEM_M_NKD_HEAD_Base.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Stoneborn/[PAK]_STONE_Head/STONE_HEAD_B/Stoneborn_MS_Head_Base.GR2" />
 					<attribute id="SpringResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Stoneborn/[PAK]_STONE_Head/STONE_HEAD_A/GOLEM_M_NKD_HEAD_Base.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Stoneborn/[PAK]_STONE_Head/STONE_HEAD_B/Stoneborn_MS_Head_Base.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566828" />
 					<children>
 						<node id="Bones">
@@ -1571,9 +1571,9 @@
 			<children>
 				<node id="Resource">
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="ae9323ad-5558-40ef-b58d-e46b27980d32" />
+					<attribute id="ID" type="FixedString" value="c098e9e2-ac74-4dda-a917-e44188de761b" />
 					<attribute id="MaterialType" type="uint8" value="18" />
-					<attribute id="Name" type="LSString" value="GOLEM_M_NKD_HEAD_A" />
+					<attribute id="Name" type="LSString" value="Stoneborn_MS_Head_A" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Skin_Head_v3.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
 					<children>
@@ -2005,6 +2005,13 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
+							<attribute id="ID" type="FixedString" value="6195ce7b-ac00-40bb-b987-b0b045b0eaba" />
+							<attribute id="ParameterName" type="FixedString" value="normalmap" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 							<attribute id="ID" type="FixedString" value="725ca5a1-1025-0ec3-fef6-44ebec70aca5" />
 							<attribute id="ParameterName" type="FixedString" value="WrinkleMapNormal" />
 						</node>
@@ -2047,6 +2054,13 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
+							<attribute id="ID" type="FixedString" value="719341ba-0dc9-49c2-bf5d-a5e802d6f621" />
+							<attribute id="ParameterName" type="FixedString" value="CLEA" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 							<attribute id="ID" type="FixedString" value="fb8c13cc-5673-422f-ab7c-3b6460ae23ed" />
 							<attribute id="ParameterName" type="FixedString" value="CancelMSK" />
 						</node>
@@ -2070,20 +2084,6 @@
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 							<attribute id="ID" type="FixedString" value="1ead6d20-5298-4d26-ae19-7c8934b21531" />
 							<attribute id="ParameterName" type="FixedString" value="HMVY" />
-						</node>
-						<node id="Texture2DParameters">
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="1ead6d20-5298-4d26-ae19-7c8934b21531" />
-							<attribute id="ParameterName" type="FixedString" value="CLEA" />
-						</node>
-						<node id="Texture2DParameters">
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="e530e33b-9a80-4d76-9e07-97b184f3f2d3" />
-							<attribute id="ParameterName" type="FixedString" value="normalmap" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="False" />
@@ -2319,41 +2319,53 @@
 	<region id="TextureBank">
 		<node id="TextureBank">
 			<children>
-				<node id="Resource"> Diffuse
+				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
 					<attribute id="ID" type="FixedString" value="1ead6d20-5298-4d26-ae19-7c8934b21531" />
-					<attribute id="Name" type="LSString" value="StoneDiffuse_Head" />
+					<attribute id="Name" type="LSString" value="StoneBaseColor" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Stoneborn/[PAK]_STONE_Head/STONE_HEAD_A/StoneDiffuse_Head.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Stoneborn/[PAK]_STONE_Head/STONE_HEAD_C/StoneBaseColor.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="StoneDiffuse_Head" />
+					<attribute id="Template" type="FixedString" value="StoneBaseColor" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
 				</node>
-				<node id="Resource"> Roughness
+				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="58c94635-1c75-4d15-bc08-31a6622cac04" />
-					<attribute id="Name" type="LSString" value="StoneRoughness_Head.DDS" />
+					<attribute id="ID" type="FixedString" value="f1484a56-2d3a-4d26-b071-4cd622eb0295" />
+					<attribute id="Name" type="LSString" value="StoneDisplacement" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Stoneborn/[PAK]_STONE_Head/STONE_HEAD_A/StoneRoughness_Head.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Stoneborn/[PAK]_STONE_Head/STONE_HEAD_C/StoneDisplacement.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="StoneRoughness_Head.DDS" />
+					<attribute id="Template" type="FixedString" value="StoneDisplacement" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
+				</node>				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="e720db6b-e0ff-4cd4-b4a7-81242c64335b" />
+					<attribute id="Name" type="LSString" value="StoneNM" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Stoneborn/[PAK]_STONE_Head/STONE_HEAD_C/StoneNM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="StoneNM" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
 				</node>
-				<node id="Resource"> NM
+				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="e530e33b-9a80-4d76-9e07-97b184f3f2d3" />
-					<attribute id="Name" type="LSString" value="StoneNormal_Head.DDS" />
+					<attribute id="ID" type="FixedString" value="d9cad827-b07e-4ed0-a876-031fb4069b32" />
+					<attribute id="Name" type="LSString" value="StonePM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Stoneborn/[PAK]_STONE_Head/STONE_HEAD_A/StoneNormal_Head.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Stoneborn/[PAK]_STONE_Head/STONE_HEAD_C/StonePM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="StoneNormal_Head.DDS" />
+					<attribute id="Template" type="FixedString" value="StonePM" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
@@ -2365,9 +2377,9 @@
 		<node id="AnimationSetBank">
 			<children>
 				<node id="Resource">
-					<attribute id="ID" type="FixedString" value="5ff5d1be-1cdc-4cf6-9e3a-941895e9a54b" />
+					<attribute id="ID" type="FixedString" value="fe9801f7-37e3-45e9-9b43-9902c441737f" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="GOLEM_M_NKD_HEAD" />
+					<attribute id="Name" type="LSString" value="Stoneborn_MS_Head_A" />
 					<attribute id="PreviewVisualResourceID" type="guid" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="SourceFile" type="LSString" value="" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
@@ -2400,18 +2412,18 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="37c9f1e5-8d41-44e9-beae-d5e39a860866" />
+					<attribute id="ID" type="FixedString" value="6c1e86c5-4764-4a82-80d4-4ba3228b293e" />
 					<attribute id="MaterialType" type="uint8" value="0" />
-					<attribute id="Name" type="LSString" value="GOLEM_M_NKD_HEAD_A" />
+					<attribute id="Name" type="LSString" value="Stoneborn_MS_Head_A" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="da0cd67f-5172-cd00-b9f1-cfdde0ebb6e6" />
+					<attribute id="SkeletonResource" type="FixedString" value="658fd10c-b8b2-4e47-214e-959e591b6881" />
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Head" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Stoneborn/[PAK]_STONE_Head/STONE_HEAD_A/GOLEM_M_NKD_HEAD_A.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Stoneborn/[PAK]_STONE_Head/STONE_HEAD_A/Stoneborn_MS_Head_A.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Stoneborn/[PAK]_STONE_Head/STONE_HEAD_A/GOLEM_M_NKD_HEAD_A.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Stoneborn/[PAK]_STONE_Head/STONE_HEAD_A/Stoneborn_MS_Head_A.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725665" />
 					<children>
 						<node id="AnimationSetOverrides">
@@ -2432,42 +2444,42 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="7a3aecb3-c997-47d0-912a-12d3dec707b3" />
-							<attribute id="ObjectID" type="FixedString" value="GOLEM_M_NKD_HEAD_A.1_GOLEM_M_NKD_Head_D_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="Stoneborn_MS_Head_A.1_STONE_MS_NKD_Head_A_Mesh.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="c47fba68-dbd5-a405-6535-2155ff08ba6f" />
-							<attribute id="ObjectID" type="FixedString" value="GOLEM_M_NKD_HEAD_A.2_GOLEM_M_NKD_Head_D_Mouth_Interior_Mesh.1" />
+							<attribute id="ObjectID" type="FixedString" value="Stoneborn_MS_Head_A.2_STONE_MS_NKD_Head_A_Mouth_Interior_Mesh.1" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
-							<attribute id="ObjectID" type="FixedString" value="GOLEM_M_NKD_HEAD_A.3_GOLEM_M_NKD_Head_D_Eyes_Mesh.2" />
+							<attribute id="ObjectID" type="FixedString" value="Stoneborn_MS_Head_A.3_STONE_MS_NKD_Head_A_Eyes_Mesh.2" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="7a3aecb3-c997-47d0-912a-12d3dec707b3" />
-							<attribute id="ObjectID" type="FixedString" value="GOLEM_M_NKD_HEAD_A.4_STONE_M_NKD_Head_D_Ears_Mesh.3" />
+							<attribute id="ObjectID" type="FixedString" value="Stoneborn_MS_Head_A.4_STONE_MS_NKD_Head_A_Ears_Mesh.3" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
-							<attribute id="ObjectID" type="FixedString" value="GOLEM_M_NKD_HEAD_A.5_GOLEM_M_NKD_Head_D_Tearline_Mesh.4" />
+							<attribute id="MaterialID" type="FixedString" value="6e22e793-7992-6cdf-5f01-a02bb1e4d02d" />
+							<attribute id="ObjectID" type="FixedString" value="Stoneborn_MS_Head_A.5_STONE_MS_NKD_Head_A_Tearline_Mesh.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="6e22e793-7992-6cdf-5f01-a02bb1e4d02d" />
+							<attribute id="ObjectID" type="FixedString" value="Stoneborn_MS_Head_A.6_STONE_MS_NKD_Head_A_Eyelashes_Mesh.5" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
-							<attribute id="ObjectID" type="FixedString" value="GOLEM_M_NKD_HEAD_A.6_GOLEM_M_NKD_Head_D_Eyelashes_Mesh.5" />
+							<attribute id="ObjectID" type="FixedString" value="Stoneborn_MS_Head_A.7_STONE_MS_NKD_Head_A_Eyeshadow_Mesh.6" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
-							<attribute id="ObjectID" type="FixedString" value="GOLEM_M_NKD_HEAD_A.7_GOLEM_M_NKD_Head_D_Eyeshadow_Mesh.6" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
-							<attribute id="ObjectID" type="FixedString" value="GOLEM_M_NKD_HEAD_A.8_GOLEM_M_NKD_Head_D_Scalp_Mesh.7" />
+							<attribute id="MaterialID" type="FixedString" value="6e22e793-7992-6cdf-5f01-a02bb1e4d02d" />
+							<attribute id="ObjectID" type="FixedString" value="Stoneborn_MS_Head_A.8_STONE_MS_NKD_Head_A_Scalp_Mesh.7" />
 						</node>
 					</children>
 				</node>
