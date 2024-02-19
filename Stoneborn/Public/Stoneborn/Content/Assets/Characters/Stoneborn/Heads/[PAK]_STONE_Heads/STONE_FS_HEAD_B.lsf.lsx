@@ -2443,12 +2443,12 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="c47fba68-dbd5-a405-6535-2155ff08ba6f" />
+							<attribute id="MaterialID" type="FixedString" value="7a3aecb3-c997-47d0-912a-12d3dec707b3" />
 							<attribute id="ObjectID" type="FixedString" value="STONE_FS_Head_B.1_STONE_FS_NKD_Head_B_Mesh.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="7a3aecb3-c997-47d0-912a-12d3dec707b3" />
+							<attribute id="MaterialID" type="FixedString" value="c47fba68-dbd5-a405-6535-2155ff08ba6f" />
 							<attribute id="ObjectID" type="FixedString" value="STONE_FS_Head_B.2_STONE_FS_NKD_Head_B_Mouth_Interior_Mesh.1" />
 						</node>
 						<node id="Objects">
