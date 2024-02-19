@@ -4,31 +4,6 @@
   <region id="CharacterCreationPresets">
     <node id="root">
       <children> 
-          Earthmother
-				<node id="CharacterCreationPreset"> F
-          <attribute id="BodyShape" type="uint8" value="0"/> 0 means smol, 1 means stronk
-          <attribute id="BodyType" type="uint8" value="1"/> 1 means wimmin, 0 means man
-          <attribute id="CloseUpA" type="LSString" value="DWR_F_Camera_Closeup_A"/> do not touch these three, cameras for in CC
-          <attribute id="CloseUpB" type="LSString" value="DWR_F_Camera_Closeup_B"/> do not touch these three, cameras for in CC
-          <attribute id="Overview" type="LSString" value="DWR_F_Camera_Overview_A"/>  do not touch these three, cameras for in CC
-          <attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/> base Custom Main race
-          <attribute id="RootTemplate" type="guid" value="9011406c-1207-42b1-8097-def9daa48b7f"/> roottemplates 
-					<attribute id="SubRaceUUID" type="guid" value="8e82ba28-d77d-4b78-8546-35bf7d9bdfb0"/>  your subrace uuid
-          <attribute id="UUID" type="guid" value="26a41292-7375-46b1-adff-e12fceeef709"/> must be unique
-          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> do not touch
-        </node>
-				<node id="CharacterCreationPreset"> M
-          <attribute id="BodyShape" type="uint8" value="0"/>
-          <attribute id="BodyType" type="uint8" value="0"/>
-          <attribute id="CloseUpA" type="LSString" value="DWR_M_Camera_Closeup_A"/>
-          <attribute id="CloseUpB" type="LSString" value="DWR_M_Camera_Closeup_B"/>
-          <attribute id="Overview" type="LSString" value="DWR_M_Camera_Overview_A"/>
-          <attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
-          <attribute id="RootTemplate" type="guid" value="2e2c1741-7847-4a52-b144-3b45e9fce33f"/>
-					<attribute id="SubRaceUUID" type="guid" value="8e82ba28-d77d-4b78-8546-35bf7d9bdfb0"/>
-          <attribute id="UUID" type="guid" value="3eda8901-c3f1-494f-aa15-d95239d4ecbe"/>
-          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
-        </node>
           Goliath
         <node id="CharacterCreationPreset"> F
           <attribute id="BodyShape" type="uint8" value="0"/>
