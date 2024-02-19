@@ -167,56 +167,56 @@
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 24
+                <node id="IconUV"> 24 Small Spikes Fire
                     <attribute id="MapKey" type="FixedString" value="0_Hair_7bb67121-5949-4f59-8f3f-3582393f0fdb"/>
                     <attribute id="U1" type="float" value="0.42120361"/>	
                     <attribute id="U2" type="float" value="0.43939209"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 25
+                <node id="IconUV"> 25 Small Spikes Mushroom
                     <attribute id="MapKey" type="FixedString" value="0_Hair_4feb6486-7d73-4b74-a315-ba7cd185246c"/>
                     <attribute id="U1" type="float" value="0.43951416"/>	
                     <attribute id="U2" type="float" value="0.45770264"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 26
+                <node id="IconUV"> 26 Mane Fire
                     <attribute id="MapKey" type="FixedString" value="0_Hair_09f43a3a-ffc0-487c-ac8f-39a8d8407336"/>
                     <attribute id="U1" type="float" value="0.45782471"/>	
                     <attribute id="U2" type="float" value="0.47601318"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 27
+                <node id="IconUV"> 27 Mane Mushroom
                     <attribute id="MapKey" type="FixedString" value="0_Hair_fd9828a4-3dcf-44bd-afc6-7c0dedc1873a"/>
                     <attribute id="U1" type="float" value="0.47613525"/>	
                     <attribute id="U2" type="float" value="0.49432373"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 28
+                <node id="IconUV"> 28 Bramble Fire
                     <attribute id="MapKey" type="FixedString" value="0_Hair_8b58b919-e392-4f39-9e34-5b8418e8e8e4"/>
                     <attribute id="U1" type="float" value="0.4944458"/>		
                     <attribute id="U2" type="float" value="0.51263428"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 29
+                <node id="IconUV"> 29 Bramble Mushroom
                     <attribute id="MapKey" type="FixedString" value="0_Hair_1e1766b7-ef92-4463-a5d3-a41440d3284e"/>
                     <attribute id="U1" type="float" value="0.51275635"/>	
                     <attribute id="U2" type="float" value="0.53094482"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 30
+                <node id="IconUV"> 30 Side Crystal Fire
                     <attribute id="MapKey" type="FixedString" value="0_Hair_a35a129c-1266-4392-bd6d-5fcdf477160c"/>
                     <attribute id="U1" type="float" value="0.53106689"/>	
                     <attribute id="U2" type="float" value="0.54925537"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 31
+                <node id="IconUV"> 31 Side Crystal Mushroom
                     <attribute id="MapKey" type="FixedString" value="0_Hair_9e99e8ff-21e6-4d95-b16d-a8fc3a4b0975"/>
                     <attribute id="U1" type="float" value="0.54937744"/>	
                     <attribute id="U2" type="float" value="0.56756592"/>	
@@ -395,8 +395,8 @@
                     <attribute id="Width" type="int32" value="150"/>
                 </node>
                 <node id="TextureAtlasPath">
-                    <attribute id="Path" type="string" value="Public/ModName/Assets/Textures/Icons/ModName_CCIcons.dds"/> <!-- The path to the .dds file; should match the path listed in the [PAK]_UI folder's _merged file. -->
-                    <attribute id="UUID" type="FixedString" value="4d26eb31-93e6-42ac-a564-a96ef2f5d629"/> <!-- The .dds's UUID; should match the UUID listed in the [PAK]_UI folder's _merged file. -->
+                    <attribute id="Path" type="string" value="Public/Stoneborn/Assets/Textures/Icons/Stoneborn_CCIcons.dds"/> <!-- The path to the .dds file; should match the path listed in the [PAK]_UI folder's _merged file. -->
+                    <attribute id="UUID" type="FixedString" value="1bff2eef-2f93-4651-b0c2-48849a857cbe"/> <!-- The .dds's UUID; should match the UUID listed in the [PAK]_UI folder's _merged file. -->
                 </node>
                 <node id="TextureAtlasTextureSize">
                     <attribute id="Height" type="int32" value="4096"/>
