@@ -438,6 +438,26 @@
 					<attribute id="VisualResource" type="guid" value="fd9828a4-3dcf-44bd-afc6-7c0dedc1873a" />
 					<!-- Match the ID line in the Hair merged in this template it is Public\Autosnapping_Template\Content\Assets\Characters\[PAK]_Hair\_merged.lsf.lsx -->
         		</node>
+				<node id="CharacterCreationAppearanceVisual"> Bramble Fire
+					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
+					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
+					<attribute id="DisplayName" type="TranslatedString" handle="h1a4fce30g458eg46d4g8d27gfde9f2dc40c4" version="1" />
+					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
+					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
+					<attribute id="UUID" type="guid" value="95e8d55c-478c-44c0-9dd9-0f8d4c8ea0a6" /> <!-- must be unique -->
+					<attribute id="VisualResource" type="guid" value="8b58b919-e392-4f39-9e34-5b8418e8e8e4" />
+					<!-- Match the ID line in the Hair merged in this template it is Public\Autosnapping_Template\Content\Assets\Characters\[PAK]_Hair\_merged.lsf.lsx -->
+        		</node>
+				<node id="CharacterCreationAppearanceVisual"> Bramble Mushroom
+					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
+					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
+					<attribute id="DisplayName" type="TranslatedString" handle="h1a4fce30g458eg46d4g8d27gfde9f2dc40c4" version="1" />
+					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
+					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
+					<attribute id="UUID" type="guid" value="f8671a05-5b38-432c-84c2-65edfe088657" /> <!-- must be unique -->
+					<attribute id="VisualResource" type="guid" value="1e1766b7-ef92-4463-a5d3-a41440d3284e" />
+					<!-- Match the ID line in the Hair merged in this template it is Public\Autosnapping_Template\Content\Assets\Characters\[PAK]_Hair\_merged.lsf.lsx -->
+        		</node>
 		<!--Fake Genitals-->
             
                 <node id="CharacterCreationAppearanceVisual"> M
