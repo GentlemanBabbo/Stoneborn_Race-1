@@ -6,7 +6,7 @@
             <children>
 		<!--Heads-->
 		<!-- M_FR_TIF_A --> I use these breaks <!-- --> to split my heads up so I know which is which
-				<node id="CharacterCreationAppearanceVisual"> Earthmother1M
+				<node id="CharacterCreationAppearanceVisual"> Goliath1M - A
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
 					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
