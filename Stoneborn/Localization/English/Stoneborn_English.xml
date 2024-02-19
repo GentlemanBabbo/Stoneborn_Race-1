@@ -7,9 +7,9 @@
 	<content contentuid="ha9deb34bg085cg4933g9f7fg2c44264c224f" version="1">Goliath</content>
 	<content contentuid="h5f6319dbg3e4eg462ag9eebg2e70923bb7c3" version="1">Constructed by sorcerers, these sentient statues are conduits for their master's magics. They wait in silence, hoping for the day that they are released from their bonds of servitude.</content>
 	<content contentuid="h036f4fd4g95a5g4b55gb89cg69ea94ad5f60" version="1">Rocky</content>
-	<content contentuid="h7e26e333gb4ceg4510g9719gbe5e5b8244ff" version="1">Steeljaw</content>
+	<content contentuid="h7e26e333gb4ceg4510g9719gbe5e5b8244ff" version="1">Steel-Jaw</content>
 	<content contentuid="h92cdc7e4g205ag4e78g9404g5917a3059a0c" version="1">Mason</content>
-	<content contentuid="hd91eb5b5g801bg4c3dgb17cg9c54732cfbd2" version="1">Stone-eater</content>
+	<content contentuid="hd91eb5b5g801bg4c3dgb17cg9c54732cfbd2" version="1">Stone-Eater</content>
 	<content contentuid="hd518de71g8180g4baega822ge8189f1224be" version="1">Titan</content>
 	<content contentuid="hbde870dfg5487g487aga133gb750ddd3c783" version="1">Golem</content>
 	<content contentuid="hf81b7a39gd57dg4590ga298g744be84dbcc7" version="1">All-Seeing</content>
@@ -30,6 +30,24 @@
 	<content contentuid="h3df5c682gaf04g400bgb85bg0ebd8d5ce9b8" version="1">Stone Dragon</content>
 	<content contentuid="hf707ba84g762dg4b37gabebgc349386bc137" version="1">Royal Rubble</content>
 	<content contentuid="h7d41ec39geb41g4092gb978gdd60173ccc91" version="1">Jagged</content>
+	<content contentuid="he436aed6ge5c2g4b60g86a9gc8831f56ade9" version="1">Slick Back: Fire</content>
+	<content contentuid="h343fcd33gb5b3g40aag88e9g93f2820d7f54" version="1">Slick Back: Mushroom</content>
+	<content contentuid="hee912eabg3315g4804gaa23g218619a7096e" version="1">Crystal Top: Fire</content>
+	<content contentuid="hb8ccfa93ga795g488bg8991gb3252c59ee6f" version="1">Crystal Top: Mushroom</content>
+	<content contentuid="hb1f32b14gaac1g45bdg9105g86ba8eb38fa2" version="1">Swirly: Fire</content>
+	<content contentuid="h99fde7c6gcdceg4634g89c8ge9cd664e6d5d" version="1">Swirly: Mushroom</content>
+	<content contentuid="h30a4d9e5g7ba2g4c13g9de2g83ad6361d157" version="1">Swipe: Fire</content>
+	<content contentuid="h6f3cdc5agf800g4131gbc9bg37efe79f03d1" version="1">Swipe: Mushroom</content>
+	<content contentuid="ha135f7c2gfbe7g48abga2adg32b58626751a" version="1">Loud and Proud: Fire</content>
+	<content contentuid="h1a4fce30g458eg46d4g8d27gfde9f2dc40c4" version="1">Loud and Proud: Mushroom</content>
+	<content contentuid="h5e69395eg3778g48b1g9187g8da3443274a2" version="1">Spikey: Fire</content>
+	<content contentuid="h3f90a651gca8eg4e3cgb6dagd868853e9ac4" version="1">Spikey: Mushroom</content>
+	<content contentuid="h921bb974g38f1g4c7agbf63g9ed4073bb740" version="1">Lion's Mane: Fire</content>
+	<content contentuid="hc57bd6a2g0a71g4eebg80ecg8a156e6ec36b" version="1">Lions Mane: Mushroom</content>
+	<content contentuid="hb4083f22g7a1bg4cf0g86edg968248db1445" version="1">Bramble: Fire</content>
+	<content contentuid="h26735583gec16g482bgafa7g3ecd90409ce4" version="1">Bramble: Mushroom</content>
+	<content contentuid="he6e8aa35g30c0g40fagaaf1ge2c193077a94" version="1">Beautiful Growth: Fire</content>
+	<content contentuid="h0b42cda2g273dg4221g9e9fg13b1c7573555" version="1">Beautiful Growth: Mushroom</content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
@@ -40,12 +58,6 @@
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
 	<content contentuid="hf6c30735ga729g454bg81a5g0325a519891d" version="1">Boulder Toss</content>
 	<content contentuid="h40c02d51g3a81g4e03g82e1g4c8a3803e6dd" version="1">Throw an object or your foe; inflict damage based on their size.</content>
 	<content contentuid="" version="1"></content>
