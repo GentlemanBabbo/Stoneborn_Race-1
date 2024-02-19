@@ -2412,7 +2412,7 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="6c1e86c5-4764-4a82-80d4-4ba3228b293e" />
+					<attribute id="ID" type="FixedString" value="37c9f1e5-8d41-44e9-beae-d5e39a860866" />
 					<attribute id="MaterialType" type="uint8" value="0" />
 					<attribute id="Name" type="LSString" value="Stoneborn_MS_Head_A" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
