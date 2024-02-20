@@ -629,7 +629,7 @@
 					<attribute id="HairType" type="uint8" value="0" />
 					<attribute id="ID" type="FixedString" value="9b581729-3228-4a16-aeb2-8dc98cc8ac75" />
 					<attribute id="MaterialType" type="uint8" value="18" />
-					<attribute id="Name" type="LSString" value="GOLEM_MS_NKD" />
+					<attribute id="Name" type="LSString" value="GOLIATH_MS_NKD" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="RemapperSlotId" type="FixedString" value="" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />

@@ -49,7 +49,7 @@
 					<attribute id="Name" type="LSString" value="Stoneborn_Female_Goliath_Player" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="9011406c-1207-42b1-8097-def9daa48b7f" /> inherits from normal Dryad body
+					<attribute id="ParentTemplateId" type="FixedString" value="b56266bd-33c3-4257-8320-ad112de62267" /> inherits from normal Stoneborn body
 					<attribute id="Icon" type="FixedString" value="eb370ddf-f7a4-4349-116e-f489556bab1d-_(Icon_Human_Female_Strong)" />
 					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> stronk armour set
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />

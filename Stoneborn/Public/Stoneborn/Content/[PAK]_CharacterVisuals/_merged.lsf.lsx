@@ -23,12 +23,6 @@
 								</node>
 								<node id="MaterialPresets">
 									<children>
-										<node id="Object">
-											<attribute id="ForcePresetValues" type="bool" value="True" />
-											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
-											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="ace8e94a-4ec0-45b3-6ff0-46a6a4a008ed" />
-										</node>
 									</children>
 								</node>
 							</children>
@@ -60,7 +54,10 @@
 									<attribute id="GroupName" type="FixedString" value="" />
 									<attribute id="MaterialPresetResource" type="FixedString" value="" />
 								</node>
-								<node id="MaterialPresets" />
+								<node id="MaterialPresets">
+									<children>
+									</children>
+								</node>
 							</children>
 						</node>
 						<node id="Slots">
@@ -171,7 +168,7 @@
 							<children>
 							<!--Eyes-->
 								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="Stoneborn_MS_Head_B.3_STONE_MS_NKD_Head_B_Eyes_Mesh.2" />
+									<attribute id="MapKey" type="FixedString" value="Stoneborn_FS_Head_B.3_STONE_FS_NKD_Head_B_Eyes_Mesh.2" />
 									<attribute id="MapValue" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
 								</node>
 							</children>
