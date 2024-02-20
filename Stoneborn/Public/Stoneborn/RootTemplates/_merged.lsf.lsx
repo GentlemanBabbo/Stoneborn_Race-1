@@ -52,11 +52,22 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="9011406c-1207-42b1-8097-def9daa48b7f" /> inherits from normal Dryad body
 					<attribute id="Icon" type="FixedString" value="eb370ddf-f7a4-4349-116e-f489556bab1d-_(Icon_Human_Female_Strong)" />
 					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> stronk armour set
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="5a67d682-0826-47f4-b0f0-51fc81a58194" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
 					<attribute id="Race" type="guid" value="4b571ca6-3b3d-4664-9d4c-672e6dd11274" /> define race as Custom Race
 					<attribute id="Stats" type="FixedString" value="Playable_F_Stoneborn" />
 					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
 						<node id="Tags">
 							<children>
 								<node id="Tag">
@@ -97,6 +108,9 @@
 						</node>
 						<node id="Tags">
 							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
+								</node>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="0eb01438-0f1c-4b68-9acb-c16b4fd95864" />
 								</node>
