@@ -29,10 +29,30 @@
                   <attribute id="Name" type="LSString" value="Stoneborn_5" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="Passive_Ironhand" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="" />
+                  <attribute id="Selectors" type="LSString" value="AddSpells(2b2b2224-8332-4099-9704-e361e4402a8f,,,,AlwaysPrepared)" />
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="6e7f3aba-9980-4a10-baca-0939f2f8d314" /> Always use this one for races.lsx, says this progression node is for Main Race
                   <attribute id="UUID" type="guid" value="b8187f97-c195-46a2-9b93-b8b83cb78155" />  this one must be unique
+        </node>
+        <node id="Progression">
+                  <attribute id="Level" type="uint8" value="7" /> which level the progression is for
+                  <attribute id="Name" type="LSString" value="Stoneborn_7" /> just an internal name
+                  <attribute id="Boosts" type="LSString" value="" /> 
+                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="AddSpells(066dbc44-1e76-481f-b476-a589b7df15f3,,,,AlwaysPrepared)" />
+                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+                  <attribute id="TableUUID" type="guid" value="6e7f3aba-9980-4a10-baca-0939f2f8d314" /> Always use this one for races.lsx, says this progression node is for Main Race
+                  <attribute id="UUID" type="guid" value="43927e8e-d268-4e93-b3de-d5c07fcf8305" />  this one must be unique
+        </node>
+        <node id="Progression">
+                  <attribute id="Level" type="uint8" value="9" /> which level the progression is for
+                  <attribute id="Name" type="LSString" value="Stoneborn_9" /> just an internal name
+                  <attribute id="Boosts" type="LSString" value="" /> 
+                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="AddSpells(704765ef-8e38-49ff-bd06-61c1ef3105f1,,,,AlwaysPrepared)" />
+                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+                  <attribute id="TableUUID" type="guid" value="6e7f3aba-9980-4a10-baca-0939f2f8d314" /> Always use this one for races.lsx, says this progression node is for Main Race
+                  <attribute id="UUID" type="guid" value="f81c5d38-73b9-48d6-b1bd-f6461912070b" />  this one must be unique
         </node>
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="1" /> which level the progression is for

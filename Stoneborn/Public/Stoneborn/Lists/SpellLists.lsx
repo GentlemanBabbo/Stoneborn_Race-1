@@ -6,14 +6,32 @@
       <children>
           <node id="SpellList">Spell list lvl 1
               <attribute id="Comment" type="LSString" value="Stoneborn lvl 1 spell list" /> 
-              <attribute id="Spells" type="LSString" value="Shout_MetalCoating_Myrmidon_Earth;Target_Burrow_Myrmidon_Earth;Shout_MudSlap_Myrmidon_Earth;Shout_SeismicStrike_Elemental_Earth;Target_Slam_Elemental_Earth" /> the spells within the selector
+              <attribute id="Spells" type="LSString" value="Target_Slam_Elemental_Earth" /> the spells within the selector
               <attribute id="UUID" type="guid" value="faa752b9-daab-46ea-aaa3-7a462f845d56" /> the UUID, needs to be unique
           </node>
 
           <node id="SpellList">Spell list lvl 3
               <attribute id="Comment" type="LSString" value="Stoneborn lvl 3 spell list" /> 
-              <attribute id="Spells" type="LSString" value="Shout_MetalCoating_Myrmidon_Earth;Target_Burrow_Myrmidon_Earth;Shout_MudSlap_Myrmidon_Earth;Shout_SeismicStrike_Elemental_Earth;Target_Slam_Elemental_Earth" /> the spells within the selector
+              <attribute id="Spells" type="LSString" value="Throw_BoulderToss" /> the spells within the selector
               <attribute id="UUID" type="guid" value="fd2415c7-4d06-460c-b4cb-f04b14171173" /> the UUID, needs to be unique
+          </node>
+
+          <node id="SpellList">Spell list lvl 5
+              <attribute id="Comment" type="LSString" value="Stoneborn lvl 5 spell list" /> 
+              <attribute id="Spells" type="LSString" value="Shout_MudSlap_Myrmidon_Earth" /> the spells within the selector
+              <attribute id="UUID" type="guid" value="2b2b2224-8332-4099-9704-e361e4402a8f" /> the UUID, needs to be unique
+          </node>
+
+          <node id="SpellList">Spell list lvl 7
+              <attribute id="Comment" type="LSString" value="Stoneborn lvl 7 spell list" /> 
+              <attribute id="Spells" type="LSString" value="Shout_MetalCoating_Myrmidon_Earth;Shout_SeismicStrike_Elemental_Earth" /> the spells within the selector
+              <attribute id="UUID" type="guid" value="066dbc44-1e76-481f-b476-a589b7df15f3" /> the UUID, needs to be unique
+          </node>
+
+          <node id="SpellList">Spell list lvl 9
+              <attribute id="Comment" type="LSString" value="Stoneborn lvl 9 spell list" /> 
+              <attribute id="Spells" type="LSString" value="Target_Burrow_Myrmidon_Earth" /> the spells within the selector
+              <attribute id="UUID" type="guid" value="704765ef-8e38-49ff-bd06-61c1ef3105f1" /> the UUID, needs to be unique
           </node>
       </children>
     </node>
