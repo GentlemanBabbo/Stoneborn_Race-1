@@ -1,0 +1,12 @@
+{
+  "FileVersion": 1,
+  "Tags": [
+    {
+      "modGuids": ["8f91d268-f9f8-4912-a1f5-96db5dddc689"],
+      "Tag": "d3406cdf-a585-4c9e-b99e-8ce2243f9026",
+      "ReallyTag": "d3406cdf-a585-4c9e-b99e-8ce2243f9026",
+      "TagsToExclude": ["Baldurian"],
+      "RaceMetaTags": ["Rare"]
+    }
+  ]
+}

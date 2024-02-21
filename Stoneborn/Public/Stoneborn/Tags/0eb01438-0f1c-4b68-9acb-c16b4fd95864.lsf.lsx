@@ -5,7 +5,7 @@
 		<node id="Tags">
 			<attribute id="Description" type="LSString" value="|CUSTOM SUBRACE|" />
 			<attribute id="DisplayDescription" type="TranslatedString" handle="hadac7b69g050ag4792gb8dbgdf70f1d297e4" version="1" />
-			<attribute id="DisplayName" type="TranslatedString" handle="h8b6b17e3g220bg4682g818bg45757c672e25" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h87a00d5fga4bdg4adagbd78ge92303f8be2f" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
 			<attribute id="Name" type="FixedString" value="Custom_Sub_Race" />
 			<attribute id="UUID" type="guid" value="0eb01438-0f1c-4b68-9acb-c16b4fd95864" />
