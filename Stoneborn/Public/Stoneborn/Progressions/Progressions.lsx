@@ -8,7 +8,7 @@
                   <attribute id="Level" type="uint8" value="1" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Stoneborn_1" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="BeastSpeech;Passive_Mountain;Passive_Stone_Skin;Stoneborn_EarthenResilience;Passive_BrickandMortar" /> passives from stats folder here
+                  <attribute id="PassivesAdded" type="LSString" value="Passive_Mountain;Passive_Stone_Skin;Stoneborn_EarthenResilience;Passive_BrickandMortar" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="AddSpells(faa752b9-daab-46ea-aaa3-7a462f845d56,,,,AlwaysPrepared);SelectSkills(4d2a1f84-2dad-4bff-ad33-f8a6357b5d1e,2)" />see below for explanation
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="6e7f3aba-9980-4a10-baca-0939f2f8d314" /> Always use this one for races.lsx, says this progression node is for Main Race
