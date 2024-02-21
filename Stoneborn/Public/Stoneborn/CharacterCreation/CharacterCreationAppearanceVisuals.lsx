@@ -618,7 +618,6 @@
 					<attribute id="VisualResource" type="guid" value="edd709c3-be0c-4f80-9f2f-7b1b5ff73975" />
 					<!-- Match the ID line in the Hair merged in this template it is Public\Autosnapping_Template\Content\Assets\Characters\[PAK]_Hair\_merged.lsf.lsx -->
         		</node>
-        		</node>
 				<node id="CharacterCreationAppearanceVisual"> Buns F Fire
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
