@@ -19,16 +19,26 @@
                   <attribute id="Name" type="LSString" value="Stoneborn_3" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="LONG_JUMP" /> 
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="" /> this is a single spell being added
+                  <attribute id="Selectors" type="LSString" value="AddSpells(fd2415c7-4d06-460c-b4cb-f04b14171173,,,,AlwaysPrepared)" /> 
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="6e7f3aba-9980-4a10-baca-0939f2f8d314" /> Always use this one for races.lsx, says this progression node is for Main Race
                   <attribute id="UUID" type="guid" value="8225b4b1-03c9-4bc9-a3ee-ac17200887dc" />  this one must be unique
           </node>
         <node id="Progression">
+                  <attribute id="Level" type="uint8" value="5" /> which level the progression is for
+                  <attribute id="Name" type="LSString" value="Stoneborn_5" /> just an internal name
+                  <attribute id="Boosts" type="LSString" value="" /> 
+                  <attribute id="PassivesAdded" type="LSString" value="Passive_Ironhand" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="" />
+                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+                  <attribute id="TableUUID" type="guid" value="6e7f3aba-9980-4a10-baca-0939f2f8d314" /> Always use this one for races.lsx, says this progression node is for Main Race
+                  <attribute id="UUID" type="guid" value="b8187f97-c195-46a2-9b93-b8b83cb78155" />  this one must be unique
+        </node>
+        <node id="Progression">
                   <attribute id="Level" type="uint8" value="1" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Goliath_1" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="BOOST_FORTRESS" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="Passive_Ironhand" /> passives from stats folder here
+                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" /> you can add spells here
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="ca230613-69f8-4a5e-9539-b2934041c78e" /> Always use this one for races.lsx, says this progression node is for Sub Race
