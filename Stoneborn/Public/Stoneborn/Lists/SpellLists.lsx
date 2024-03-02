@@ -18,7 +18,7 @@
 
           <node id="SpellList">Spell list lvl 5
               <attribute id="Comment" type="LSString" value="Stoneborn lvl 5 spell list" /> 
-              <attribute id="Spells" type="LSString" value="Shout_MudSlap_Myrmidon_Earth" /> the spells within the selector
+              <attribute id="Spells" type="LSString" value="Zone_Stoneborn_MudBreath" /> the spells within the selector
               <attribute id="UUID" type="guid" value="2b2b2224-8332-4099-9704-e361e4402a8f" /> the UUID, needs to be unique
           </node>
 
@@ -30,7 +30,7 @@
 
           <node id="SpellList">Spell list lvl 9
               <attribute id="Comment" type="LSString" value="Stoneborn lvl 9 spell list" /> 
-              <attribute id="Spells" type="LSString" value="Target_Burrow_Myrmidon_Earth" /> the spells within the selector
+              <attribute id="Spells" type="LSString" value="Target_Burrow_Stoneborn" /> the spells within the selector
               <attribute id="UUID" type="guid" value="704765ef-8e38-49ff-bd06-61c1ef3105f1" /> the UUID, needs to be unique
           </node>
       </children>
