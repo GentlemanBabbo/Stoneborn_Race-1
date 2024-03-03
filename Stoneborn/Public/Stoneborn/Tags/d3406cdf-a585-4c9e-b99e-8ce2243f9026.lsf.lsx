@@ -7,7 +7,7 @@
 			<attribute id="DisplayDescription" type="TranslatedString" handle="h7f93509dg10f6g4dafga9e7gcb64447f632c" version="1" />
 			<attribute id="DisplayName" type="TranslatedString" handle="h05c997a7gec24g4d30g855dg8287ab2df81f" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
-			<attribute id="Name" type="FixedString" value="Custom_Main_Race" />
+			<attribute id="Name" type="FixedString" value="Stoneborn" />
 			<attribute id="UUID" type="guid" value="d3406cdf-a585-4c9e-b99e-8ce2243f9026" />
 			<children>
 				<node id="Categories">

@@ -2,19 +2,17 @@
 
 new entry "Playable_M_Stoneborn"
 type "Character"
-using "_Humanoid"
+using "_Hero"
 data "DefaultBoosts" "ScaleMultiplier(1.33)"
 data "GameSize" "Large"
 data "Weight" "135"
-data "StepsType" "Bare"
 
 new entry "Playable_F_Stoneborn"
 type "Character"
-using "_Humanoid"
+using "_Hero"
 data "DefaultBoosts" "ScaleMultiplier(1.33)"
 data "GameSize" "Large"
 data "Weight" "135"
-data "StepsType" "Bare"
 
 <!--------------------- Stoneborn Passives --------------------->
 
