@@ -24,7 +24,7 @@
 
           <node id="SpellList">Spell list lvl 7
               <attribute id="Comment" type="LSString" value="Stoneborn lvl 7 spell list" /> 
-              <attribute id="Spells" type="LSString" value="Shout_MetalCoating_Myrmidon_Earth;Shout_SeismicStrike_Stoneborn" /> the spells within the selector
+              <attribute id="Spells" type="LSString" value="Shout_MetalCoating_Stoneborn;Shout_SeismicStrike_Stoneborn" /> the spells within the selector
               <attribute id="UUID" type="guid" value="066dbc44-1e76-481f-b476-a589b7df15f3" /> the UUID, needs to be unique
           </node>
 
