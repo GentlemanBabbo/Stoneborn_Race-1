@@ -2,14 +2,14 @@
 
 new entry "Playable_M_Stoneborn"
 type "Character"
-using "_Hero"
+using "_Humanoid"
 data "DefaultBoosts" "ScaleMultiplier(1.33)"
 data "GameSize" "Large"
 data "Weight" "135"
 
 new entry "Playable_F_Stoneborn"
 type "Character"
-using "_Hero"
+using "_Humanoid"
 data "DefaultBoosts" "ScaleMultiplier(1.33)"
 data "GameSize" "Large"
 data "Weight" "135"
