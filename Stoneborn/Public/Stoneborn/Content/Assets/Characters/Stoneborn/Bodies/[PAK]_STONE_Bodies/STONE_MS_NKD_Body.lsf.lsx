@@ -505,7 +505,7 @@
 					<attribute id="ID" type="FixedString" value="7a3aecb3-c997-47d0-912a-12d3dec707b3" /> Generate new UUID
 					<attribute id="MaterialType" type="uint8" value="22" />
 					<attribute id="Name" type="LSString" value="ROCK_MAT" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_BASE.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Skin_Body.lsf" />
 					<children>
 						<node id="ScalarParameters">
 							<attribute id="BaseValue" type="float" value="0.7" />
