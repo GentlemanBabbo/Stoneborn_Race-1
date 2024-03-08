@@ -14,52 +14,179 @@
             <attribute id="RaceSoundSwitch" type="FixedString" value="Dwarf" />           sound it makes when you select the race
             <attribute id="UUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491" /> Race UUID, keep this for adding hairs etc
                 <children>
+                        <!--Flame Blue 1-->
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="b3c6b283-d4ba-48e1-99fc-e45623880b33" />
+                        </node>
+                        <!--Flame Blue 2-->
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="b2308133-0a71-4b9b-b46d-63d11b2cd5df" />
+                        </node>
+                        <!--Flame Blue 3-->
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="3e4d5829-7bfd-446a-9e7d-ac8d0948c1e4" />
+                        </node>
+                        <!--Flame Blue 4-->
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="de2fa831-a273-49dd-a7a1-33b019bae048" />
+                        </node>
+                        <!--Flame Blue 5-->
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="eff19c7d-2565-44dc-8d40-c8cbd754f5ab" />
+                        </node>
+                        <!--Flame Blue 6-->
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="5d9da91f-a3bf-46c8-9d40-d30ee5ad056f" />
+                        </node>
+                        <!--Flame Blue 7-->
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="7419bd2c-a37b-49b9-9dfe-7fa26ba06c22" />
+                        </node>
+
+                        <!--Flame Green 1-->
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="f47cc517-c17e-4cdb-b839-604766e1d85f" />
+                        </node>
+                        <!--Flame Green 2-->
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="9a5c7b24-374a-4e21-9c3d-28e73e750950" />
+                        </node>
+                        <!--Flame Green 3-->
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="2d978480-79cb-4f6f-a16b-d9f32fa89936" />
+                        </node>
+                        <!--Flame Green 4-->
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="246c49bc-43e0-41ed-b58d-ae2924ea23ab" />
+                        </node>
+                        <!--Flame Green 5-->
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="32dfee54-b797-4bd3-ae41-b3479ee5ac52" />
+                        </node>
+                        <!--Flame Green 6-->
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="b66e0cf2-673b-4e70-a0e5-0782da48409c" />
+                        </node>
+                        <!--Flame Green 7-->
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="bb69312c-a62d-4a04-bd17-dbe8d712f35c" />
+                        </node>
+
+                        <!--Flame Yellow 1-->
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="09d89819-702a-4adb-8655-cc91f6882920" />
+                        </node>
+                        <!--Flame Yellow 2-->
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="ed017994-7247-41c6-9388-2d91654cf0dd" />
+                        </node>
+                        <!--Flame Yellow 3-->
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="5df6822d-bacc-46af-a681-266fe9b55766" />
+                        </node>
+                        <!--Flame Yellow 4-->
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="41cb1db8-972f-4384-8eb6-211e2c615dfb" />
+                        </node>
+
+                        <!--Flame Orange 1-->
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="4561b0ca-7f1a-4061-ac51-17bd7a5cdb52" />
+                        </node>
+                        <!--Flame Orange 2-->
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="78bb58a4-e320-48ae-90a0-fb886cff0c59" />
+                        </node>
                         <!--Flame Orange 3-->
                         <node id="EyeColors">
                             <attribute id="Object" type="guid" value="5611997a-c98d-4f91-aa61-331df5fbf00f" />
                         </node>
+
+                        <!--Flame Red 1-->
                         <node id="EyeColors">
-                            <attribute id="Object" type="guid" value="b3ff0d4e-50c3-442e-3d8b-e30a5cf73368" />
+                            <attribute id="Object" type="guid" value="7cb875a4-e14b-4700-b359-7b01c275c4b0" />
                         </node>
+                        <!--Flame Red 2-->
                         <node id="EyeColors">
-                            <attribute id="Object" type="guid" value="c55b75c5-cc13-4797-9758-7979a21bf9d0" />
+                            <attribute id="Object" type="guid" value="8e1aade9-cba8-4059-8416-88dda59f783c" />
                         </node>
+                        <!--Flame Red 3-->
                         <node id="EyeColors">
-                            <attribute id="Object" type="guid" value="5e20ef7e-4f8b-4cd7-964d-9f68bb2ac51d" />
+                            <attribute id="Object" type="guid" value="82e3fcd1-e8f8-4c73-9eb2-f653ce754b79" />
                         </node>
+                        <!--Flame Red 4-->
                         <node id="EyeColors">
-                            <attribute id="Object" type="guid" value="79b4e8e8-eea4-4689-b42c-1085d2a67ac3" />
+                            <attribute id="Object" type="guid" value="21da5cc4-34b9-4eed-98b4-322d2a1e5f6b" />
                         </node>
+
+                        <!--Flame Pink 1-->
                         <node id="EyeColors">
-                            <attribute id="Object" type="guid" value="bf8189c5-d057-42e7-aae8-849628b83689" />
+                            <attribute id="Object" type="guid" value="2dd709cb-7023-40db-a71d-399de7e5453b" />
                         </node>
+                        <!--Flame Pink 2-->
                         <node id="EyeColors">
-                            <attribute id="Object" type="guid" value="76658eb0-bea1-40ce-98eb-479cfdd2f063" />
+                            <attribute id="Object" type="guid" value="84b0e9bf-2d8c-4560-842c-a752e6fb7b2d" />
                         </node>
+                        <!--Flame Pink 3-->
                         <node id="EyeColors">
-                            <attribute id="Object" type="guid" value="6a0d0958-d421-41d9-bc2b-2c4c96028b3b" />
+                            <attribute id="Object" type="guid" value="81f4a79c-515e-414a-bc70-9dc8f02406a8" />
                         </node>
+                        <!--Flame Pink 4-->
                         <node id="EyeColors">
-                            <attribute id="Object" type="guid" value="2fda7eda-6a29-4f63-98e2-ff09695d2e53" />
+                            <attribute id="Object" type="guid" value="9913216d-4e1a-4ffd-8338-0a5cdb59a973" />
                         </node>
+
+                        <!--Flame Purple 1-->
                         <node id="EyeColors">
-                            <attribute id="Object" type="guid" value="89983ad8-9350-45a5-bbf0-0266f3f00a74" />
+                            <attribute id="Object" type="guid" value="adcf4e92-8c8c-4ac7-ad68-a566c4473138" />
                         </node>
+                        <!--Flame Purple 2-->
                         <node id="EyeColors">
-                            <attribute id="Object" type="guid" value="bbdef785-d8de-4813-b8e9-83d1ceee1366" />
+                            <attribute id="Object" type="guid" value="cd29def2-6917-45c6-a60c-f32561364c7c" />
                         </node>
+                        <!--Flame Purple 3-->
                         <node id="EyeColors">
-                            <attribute id="Object" type="guid" value="7fb2f5fa-216d-449e-adf7-eb11f847fa7c" />
+                            <attribute id="Object" type="guid" value="1b61f137-3353-49bf-bce5-fd29cd9a6efd" />
                         </node>
+                        <!--Flame Purple 4-->
                         <node id="EyeColors">
-                            <attribute id="Object" type="guid" value="9659f54a-8cfb-42b7-b93d-286c023b6f68" />
+                            <attribute id="Object" type="guid" value="1b308e08-da37-4f6f-ad6d-2ad2683a1adf" />
                         </node>
+                        <!--Flame Purple 5-->
                         <node id="EyeColors">
-                            <attribute id="Object" type="guid" value="d67d88cd-6a1b-4a1a-b1e8-f5c77f551611" />
+                            <attribute id="Object" type="guid" value="6a2aafb6-e16f-472f-85d8-b5ae48190d4a" />
                         </node>
+
+                        <!--Flame Grey 1-->
                         <node id="EyeColors">
-                            <attribute id="Object" type="guid" value="d094b941-10b8-4815-b7e4-4e0999dcafab" />
+                            <attribute id="Object" type="guid" value="e61796af-ad39-4e75-9c6c-f72242e49a0c" />
                         </node>
+                        <!--Flame Grey 2-->
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="99288014-8109-4b7c-bb8d-f8dbefdaa0cd" />
+                        </node>
+                        <!--Flame Grey 3-->
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="94cad333-e7be-442b-be4c-c946e2b5cb03" />
+                        </node>
+                        <!--Flame Grey 4-->
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="a242145e-6b07-47fe-9cf8-1688a811e3e9" />
+                        </node>
+
+                        <!--Flame White 1-->
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="e0732253-2f32-4d22-aa61-5aeaf77b3e50" />
+                        </node>
+                        <!--Flame White 2-->
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="69608b4e-9801-4ce3-8342-cc59c39256a3" />
+                        </node>
+                        <!--Flame White 3-->
+                        <node id="EyeColors">
+                            <attribute id="Object" type="guid" value="b561e7ff-18fd-4af4-a084-87048fe2f68d" />
+                        </node>
+
                         <node id="HairColors">
                             <attribute id="Object" type="guid" value="0206c920-e750-4dfb-9760-8376a31b231d" />
                         </node>
