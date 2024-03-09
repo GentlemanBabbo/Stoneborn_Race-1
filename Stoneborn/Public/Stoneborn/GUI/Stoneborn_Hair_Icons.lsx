@@ -6,259 +6,259 @@
             <children> <!-- You can fit 54 icons in one row of the .dds, but since I doubt anyone other than Toarie will ever include more than 54 hairs in a pack, I've only included the first row's worth of coordinates. -->
             <!-- I dug these coordinates out of the game files, but I've seen other modders use different coordinates, particularly if they crop their .dds to only the first row. I recommend keeping the .dds sized at 8192 x 4196
             and using these coordinates, otherwise the game (particularly if run through DirectX 11 instead of Vulkan) might not show your icons. -->
-                <node id="IconUV"> 1 
+                <node id="IconUV"> 1 Slick Back Fire
                     <attribute id="MapKey" type="FixedString" value="0_Hair_30e16e6c-5b8b-48f8-bd9c-e74cca2b13a5"/> <!-- Matches the IconIdOverride value in CharacterCreationAppearanceVisuals -->
                     <attribute id="U1" type="float" value="6.1035156e-05"/>	Left boundary
                     <attribute id="U2" type="float" value="0.018249512"/>	Right boundary
                     <attribute id="V1" type="float" value="0.00012207031"/>	Top boundary
                     <attribute id="V2" type="float" value="0.036499023"/>	Bottom boundary
                 </node>
-                <node id="IconUV"> 2 
+                <node id="IconUV"> 2 Slick Back Mushroom
                     <attribute id="MapKey" type="FixedString" value="0_Hair_eaf1f77f-74a9-40fb-91ee-e9723b259c57"/>
                     <attribute id="U1" type="float" value="0.018371582"/>	
                     <attribute id="U2" type="float" value="0.036560059"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 3 
+                <node id="IconUV"> 3 Slick Back Emerald
                     <attribute id="MapKey" type="FixedString" value="0_Hair_630101d6-1190-4ea9-bc78-726413141f77"/>
                     <attribute id="U1" type="float" value="0.036682129"/>	
                     <attribute id="U2" type="float" value="0.054870605"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 4 
+                <node id="IconUV"> 4 Crystal Top Fire
                     <attribute id="MapKey" type="FixedString" value="0_Hair_b0fe331d-e9f8-4104-9cf1-a2e543f5a623"/>
                     <attribute id="U1" type="float" value="0.054992676"/>	
                     <attribute id="U2" type="float" value="0.073181152"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 5 
+                <node id="IconUV"> 5 Crystal Top Mushroom
                     <attribute id="MapKey" type="FixedString" value="0_Hair_a6a5ed23-793b-4732-a4cb-34121f803507"/>
                     <attribute id="U1" type="float" value="0.073303223"/>	
                     <attribute id="U2" type="float" value="0.091491699"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 6 
+                <node id="IconUV"> 6 Crystal Top Emerald
                     <attribute id="MapKey" type="FixedString" value="0_Hair_a6a5ed23-793b-4732-a4cb-34121f803507"/>
                     <attribute id="U1" type="float" value="0.09161377"/>	
                     <attribute id="U2" type="float" value="0.10980225"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 7 
+                <node id="IconUV"> 7 Swirly Fire
                     <attribute id="MapKey" type="FixedString" value="0_Hair_c7e0e240-52b3-4176-a1ce-1f0fdd32f4f9"/>
                     <attribute id="U1" type="float" value="0.10992432"/>	
                     <attribute id="U2" type="float" value="0.12811279"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 8 
+                <node id="IconUV"> 8 Swirly Mushroom
                     <attribute id="MapKey" type="FixedString" value="0_Hair_852087d6-f4f7-4d0a-89e9-4961e4f42bd5"/>
                     <attribute id="U1" type="float" value="0.12823486"/>	
                     <attribute id="U2" type="float" value="0.14642334"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 9 
+                <node id="IconUV"> 9 Swirly Emerald
                     <attribute id="MapKey" type="FixedString" value="0_Hair_852087d6-f4f7-4d0a-89e9-4961e4f42bd5"/>
                     <attribute id="U1" type="float" value="0.14654541"/>	
                     <attribute id="U2" type="float" value="0.16473389"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 10 
+                <node id="IconUV"> 10 Mushroom Mind
                     <attribute id="MapKey" type="FixedString" value="0_Hair_9a840856-493b-46d5-82cd-76f0aec5a04d"/>
                     <attribute id="U1" type="float" value="0.16485596"/>	
                     <attribute id="U2" type="float" value="0.18304443"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 11 
+                <node id="IconUV"> 11 Swipe Fire
                     <attribute id="MapKey" type="FixedString" value="0_Hair_eb2ef6eb-0d2f-4e98-b7f2-b0a25e24093e"/>
                     <attribute id="U1" type="float" value="0.1831665"/>		
                     <attribute id="U2" type="float" value="0.20135498"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 12 
+                <node id="IconUV"> 12 Swipe Mushroom
                     <attribute id="MapKey" type="FixedString" value="0_Hair_b85a0809-ccf8-48c3-ba25-bfefec095cae"/>
                     <attribute id="U1" type="float" value="0.20147705"/>	
                     <attribute id="U2" type="float" value="0.21966553"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 13 
+                <node id="IconUV"> 13 Swipe Emerald
                     <attribute id="MapKey" type="FixedString" value="0_Hair_36f79815-52f3-4527-a2f1-a61d5238a608"/>
                     <attribute id="U1" type="float" value="0.2197876"/>		
                     <attribute id="U2" type="float" value="0.23797607"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 14 
+                <node id="IconUV"> 14 Loud and Proud Fire
                     <attribute id="MapKey" type="FixedString" value="0_Hair_2ec10691-0c5e-48d4-956c-6008509e9a9e"/>
                     <attribute id="U1" type="float" value="0.23809814"/>	
                     <attribute id="U2" type="float" value="0.25628662"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 15 
+                <node id="IconUV"> 15 Loud and Proud Mushroom
                     <attribute id="MapKey" type="FixedString" value="0_Hair_30a1eb1c-667c-4aa9-8eb5-57e5197160d7"/>
                     <attribute id="U1" type="float" value="0.25640869"/>	
                     <attribute id="U2" type="float" value="0.27459717"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 16 
+                <node id="IconUV"> 16 Loud and Proud Emerald
                     <attribute id="MapKey" type="FixedString" value="0_Hair_5d650203-ce65-4a04-9d98-9188d5dbb9ca"/>
                     <attribute id="U1" type="float" value="0.27471924"/>	
                     <attribute id="U2" type="float" value="0.29290771"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 17 
+                <node id="IconUV"> 17 Spikey Fire
                     <attribute id="MapKey" type="FixedString" value="0_Hair_7bb67121-5949-4f59-8f3f-3582393f0fdb"/>
                     <attribute id="U1" type="float" value="0.29302979"/>	
                     <attribute id="U2" type="float" value="0.31121826"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 18 
+                <node id="IconUV"> 18 Spikey Mushroom
                     <attribute id="MapKey" type="FixedString" value="0_Hair_4feb6486-7d73-4b74-a315-ba7cd185246c"/>
                     <attribute id="U1" type="float" value="0.31134033"/>	
                     <attribute id="U2" type="float" value="0.32952881"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 19 
+                <node id="IconUV"> 19 Spikey Emerald
                     <attribute id="MapKey" type="FixedString" value="0_Hair_26df69e9-e0bc-437b-abfa-ab2c7c7b5f87"/>
                     <attribute id="U1" type="float" value="0.32965088"/>	
                     <attribute id="U2" type="float" value="0.34783936"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 20 
+                <node id="IconUV"> 20 Lion's Mane Fire
                     <attribute id="MapKey" type="FixedString" value="0_Hair_754fb342-812a-439a-aa5a-e9ef31edf050"/>
                     <attribute id="U1" type="float" value="0.34796143"/>	
                     <attribute id="U2" type="float" value="0.3661499"/>	    
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 21 
+                <node id="IconUV"> 21 Lion's Mane Mushroom
                     <attribute id="MapKey" type="FixedString" value="0_Hair_fd9828a4-3dcf-44bd-afc6-7c0dedc1873a"/>
                     <attribute id="U1" type="float" value="0.36627197"/>	
                     <attribute id="U2" type="float" value="0.38446045"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 22 
+                <node id="IconUV"> 22 Lion's Mane Emerald
                     <attribute id="MapKey" type="FixedString" value="0_Hair_8b58b919-e392-4f39-9e34-5b8418e8e8e4"/>
                     <attribute id="U1" type="float" value="0.38458252"/>	
                     <attribute id="U2" type="float" value="0.402771"/>	    
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 23 
+                <node id="IconUV"> 23 Bramble Fire
                     <attribute id="MapKey" type="FixedString" value="0_Hair_1e1766b7-ef92-4463-a5d3-a41440d3284e"/>
                     <attribute id="U1" type="float" value="0.40289307"/>	
                     <attribute id="U2" type="float" value="0.42108154"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 24 
+                <node id="IconUV"> 24 Bramble Mushroom
                     <attribute id="MapKey" type="FixedString" value="0_Hair_8b480083-d5d2-4333-ada2-872f8c8b6dab"/>
                     <attribute id="U1" type="float" value="0.42120361"/>	
                     <attribute id="U2" type="float" value="0.43939209"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 25 
+                <node id="IconUV"> 25 Bramble Emerald
                     <attribute id="MapKey" type="FixedString" value="0_Hair_a35a129c-1266-4392-bd6d-5fcdf477160c"/>
                     <attribute id="U1" type="float" value="0.43951416"/>	
                     <attribute id="U2" type="float" value="0.45770264"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 26 
+                <node id="IconUV"> 26 Beautiful Growth Fire
                     <attribute id="MapKey" type="FixedString" value="0_Hair_9e99e8ff-21e6-4d95-b16d-a8fc3a4b0975"/>
                     <attribute id="U1" type="float" value="0.45782471"/>	
                     <attribute id="U2" type="float" value="0.47601318"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 27 
+                <node id="IconUV"> 27 Beautiful Growth Mushroom
                     <attribute id="MapKey" type="FixedString" value="0_Hair_ee509d70-e597-4185-9d56-8f599aaa425d"/>
                     <attribute id="U1" type="float" value="0.47613525"/>	
                     <attribute id="U2" type="float" value="0.49432373"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 28 
+                <node id="IconUV"> 28 Beautiful Growth Emerald
                     <attribute id="MapKey" type="FixedString" value="0_Hair_b8f83534-234f-47ed-956b-f9a220114148"/>
                     <attribute id="U1" type="float" value="0.4944458"/>		
                     <attribute id="U2" type="float" value="0.51263428"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 29 
+                <node id="IconUV"> 29 Crystal Formation Fire
                     <attribute id="MapKey" type="FixedString" value="0_Hair_edd709c3-be0c-4f80-9f2f-7b1b5ff73975"/>
                     <attribute id="U1" type="float" value="0.51275635"/>	
                     <attribute id="U2" type="float" value="0.53094482"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 30 
+                <node id="IconUV"> 30 Crystal Formation Mushroom
                     <attribute id="MapKey" type="FixedString" value="0_Hair_25c749a8-6788-41c5-9c76-8ba64e9138e9"/>
                     <attribute id="U1" type="float" value="0.53106689"/>	
                     <attribute id="U2" type="float" value="0.54925537"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 31 
+                <node id="IconUV"> 31 Crystal Formation Emerald
                     <attribute id="MapKey" type="FixedString" value="0_Hair_0ba363c7-66b2-49d4-82b8-b59f4bd3be6c"/>
                     <attribute id="U1" type="float" value="0.54937744"/>	
                     <attribute id="U2" type="float" value="0.56756592"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 32
+                <node id="IconUV"> 32 Hedgehog Buns Fire
                     <attribute id="MapKey" type="FixedString" value="0_Hair_e920c67b-1485-4f43-b3cd-d190c1739067"/>
                     <attribute id="U1" type="float" value="0.56768799"/>	
                     <attribute id="U2" type="float" value="0.58587646"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 33
+                <node id="IconUV"> 33 Hedgehog Buns Mushroom
                     <attribute id="MapKey" type="FixedString" value="0_Hair_54009d14-aa69-4d38-a81a-27269216769a"/>
                     <attribute id="U1" type="float" value="0.58599854"/>	
                     <attribute id="U2" type="float" value="0.60418701"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 34
+                <node id="IconUV"> 34 Hedgehog Buns Emerald
                     <attribute id="MapKey" type="FixedString" value="0_Hair_88328cc8-b2f2-40ac-944a-ffb9d6a7e7f3"/>
                     <attribute id="U1" type="float" value="0.60430908"/>	
                     <attribute id="U2" type="float" value="0.62249756"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 35
+                <node id="IconUV"> 35 Will-o-wisp Fire
                     <attribute id="MapKey" type="FixedString" value="0_Hair_74355ed1-ac76-44db-b629-b62936065dd4"/>
                     <attribute id="U1" type="float" value="0.62261963"/>	
                     <attribute id="U2" type="float" value="0.64080811"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 36
+                <node id="IconUV"> 36 Will-o-wisp Mushroom
                     <attribute id="MapKey" type="FixedString" value="0_Hair_954acec4-5436-4ed7-91ae-7386b0bf606e"/>
                     <attribute id="U1" type="float" value="0.64093018"/>	
                     <attribute id="U2" type="float" value="0.65911865"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
-                <node id="IconUV"> 37
+                <node id="IconUV"> 37 Will-o-wisp Emerald
                     <attribute id="MapKey" type="FixedString" value="0_Hair_30e16e6c-5b8b-48f8-bd9c-e74cca2b13a5"/>
                     <attribute id="U1" type="float" value="0.65924072"/>	
                     <attribute id="U2" type="float" value="0.6774292"/>	    
