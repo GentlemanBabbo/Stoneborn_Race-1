@@ -2316,63 +2316,6 @@
 			</children>
 		</node>
 	</region>
-	<region id="TextureBank">
-		<node id="TextureBank">
-			<children>
-				<node id="Resource">
-					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="1ead6d20-5298-4d26-ae19-7c8934b21531" />
-					<attribute id="Name" type="LSString" value="StoneBaseColor" />
-					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Stoneborn/[PAK]_STONE_Head/STONE_HEAD_C/StoneBaseColor.DDS" />
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="StoneBaseColor" />
-					<attribute id="Type" type="int32" value="1" />
-					<attribute id="Width" type="int32" value="2048" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
-				</node>
-				<node id="Resource">
-					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="f1484a56-2d3a-4d26-b071-4cd622eb0295" />
-					<attribute id="Name" type="LSString" value="StoneDisplacement" />
-					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Stoneborn/[PAK]_STONE_Head/STONE_HEAD_C/StoneDisplacement.DDS" />
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="StoneDisplacement" />
-					<attribute id="Type" type="int32" value="1" />
-					<attribute id="Width" type="int32" value="2048" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
-				</node>				<node id="Resource">
-					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="e720db6b-e0ff-4cd4-b4a7-81242c64335b" />
-					<attribute id="Name" type="LSString" value="StoneNM" />
-					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Stoneborn/[PAK]_STONE_Head/STONE_HEAD_C/StoneNM.DDS" />
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="StoneNM" />
-					<attribute id="Type" type="int32" value="1" />
-					<attribute id="Width" type="int32" value="2048" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
-				</node>
-				<node id="Resource">
-					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="d9cad827-b07e-4ed0-a876-031fb4069b32" />
-					<attribute id="Name" type="LSString" value="StonePM" />
-					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Stoneborn/[PAK]_STONE_Head/STONE_HEAD_C/StonePM.DDS" />
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="StonePM" />
-					<attribute id="Type" type="int32" value="1" />
-					<attribute id="Width" type="int32" value="2048" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
-				</node>
-			</children>
-		</node>
-	</region>
 	<region id="AnimationSetBank">
 		<node id="AnimationSetBank">
 			<children>
@@ -2443,7 +2386,7 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="7a3aecb3-c997-47d0-912a-12d3dec707b3" />
+							<attribute id="MaterialID" type="FixedString" value="3e29f47c-5498-4ca7-b6ca-ea0d259c75dc" />
 							<attribute id="ObjectID" type="FixedString" value="Stoneborn_MS_Head_A.1_STONE_MS_NKD_Head_A_Mesh.0" />
 						</node>
 						<node id="Objects">
@@ -2458,7 +2401,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="7a3aecb3-c997-47d0-912a-12d3dec707b3" />
+							<attribute id="MaterialID" type="FixedString" value="3e29f47c-5498-4ca7-b6ca-ea0d259c75dc" />
 							<attribute id="ObjectID" type="FixedString" value="Stoneborn_MS_Head_A.4_STONE_MS_NKD_Head_A_Ears_Mesh.3" />
 						</node>
 						<node id="Objects">
