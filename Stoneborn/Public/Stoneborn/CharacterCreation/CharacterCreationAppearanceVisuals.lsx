@@ -396,7 +396,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="0" /> <!--0 = Masc 1 = Fem -->
 					<attribute id="DisplayName" type="TranslatedString" handle="h984cddfeg2b96g4035g8b97g3240ba2f23f3" version="1" />
-					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_30a1eb1c-667c-4aa9-8eb5-57e5197160d7"/>															
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_5d650203-ce65-4a04-9d98-9188d5dbb9ca"/>															
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="3a651384-f5f7-460e-8266-5038c7a432f3" /> <!-- must be unique -->
@@ -430,7 +430,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="0" /> <!--0 = Masc 1 = Fem -->
 					<attribute id="DisplayName" type="TranslatedString" handle="h0c46275cg8b84g44e9gb271g495745950847" version="1" />
-					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_4feb6486-7d73-4b74-a315-ba7cd185246c"/>															
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_26df69e9-e0bc-437b-abfa-ab2c7c7b5f87"/>															
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="3f78b5e8-2fa8-49ff-9ced-1f971b437c97" /> <!-- must be unique -->
@@ -442,7 +442,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="0" /> <!--0 = Masc 1 = Fem -->
 					<attribute id="DisplayName" type="TranslatedString" handle="h921bb974g38f1g4c7agbf63g9ed4073bb740" version="1" />
-					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_09f43a3a-ffc0-487c-ac8f-39a8d8407336"/>															
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_754fb342-812a-439a-aa5a-e9ef31edf050"/>															
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="2c6cfe9f-ea1f-46de-87ab-5eefb3e7f9f7" /> <!-- must be unique -->
@@ -464,7 +464,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="0" /> <!--0 = Masc 1 = Fem -->
 					<attribute id="DisplayName" type="TranslatedString" handle="h6f1bf1a0gdd28g45c9g8dffg142e18ef6414" version="1" />
-					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_fd9828a4-3dcf-44bd-afc6-7c0dedc1873a"/>															
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_efa29d70-583b-41fa-a194-61b0988e3753"/>															
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="094300c5-ce83-48ff-81cb-d057d13da1d1" /> <!-- must be unique -->
@@ -498,7 +498,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="0" /> <!--0 = Masc 1 = Fem -->
 					<attribute id="DisplayName" type="TranslatedString" handle="h735f6ef5g41aeg4506gacb4g2b814fd086f7" version="1" />
-					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_1e1766b7-ef92-4463-a5d3-a41440d3284e"/>															
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_8b480083-d5d2-4333-ada2-872f8c8b6dab"/>															
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="1b24e77c-0f66-4132-81d1-64bd4fa9cf7c" /> <!-- must be unique -->
@@ -531,7 +531,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="0" /> <!--0 = Masc 1 = Fem -->
 					<attribute id="DisplayName" type="TranslatedString" handle="h55a2f7bbg8af3g492dgba6dg7fff6c535611" version="1" />
-					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_9e99e8ff-21e6-4d95-b16d-a8fc3a4b0975"/>															
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_ee509d70-e597-4185-9d56-8f599aaa425d"/>															
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="2399a2a8-f939-4d49-8a39-ddce37f3dcd5" /> <!-- must be unique -->
@@ -564,7 +564,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="0" /> <!--0 = Masc 1 = Fem -->
 					<attribute id="DisplayName" type="TranslatedString" handle="h518f6dfagee3bg4117gb363ga977612ee840" version="1" />
-					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_edd709c3-be0c-4f80-9f2f-7b1b5ff73975"/>															
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_25c749a8-6788-41c5-9c76-8ba64e9138e9"/>															
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="6ee23a2b-f8da-43fe-b394-8af45ba628cc" /> <!-- must be unique -->
@@ -597,7 +597,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="0" /> <!--0 = Masc 1 = Fem -->
 					<attribute id="DisplayName" type="TranslatedString" handle="he3307e05g9538g45d5g87b7g4823a5177e76" version="1" />
-					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_e920c67b-1485-4f43-b3cd-d190c1739067"/>															
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_54009d14-aa69-4d38-a81a-27269216769a"/>															
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="4089afde-0f24-4d89-8b8f-d3c815d0127d" /> <!-- must be unique -->
@@ -608,7 +608,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="0" /> <!--0 = Masc 1 = Fem -->
 					<attribute id="DisplayName" type="TranslatedString" handle="h0cee4827gab80g4452ga660g9587b65632f5" version="1" />
-					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_edd709c3-be0c-4f80-9f2f-7b1b5ff73975"/>															
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_88328cc8-b2f2-40ac-944a-ffb9d6a7e7f3"/>															
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="b0ac18b5-6f1b-42d5-8348-90577439f929" /> <!-- must be unique -->
@@ -619,7 +619,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="0" /> <!--0 = Masc 1 = Fem -->
 					<attribute id="DisplayName" type="TranslatedString" handle="hd3dace01g7d3cg4459gb615g6c930d4d9d98" version="1" />
-					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_edd709c3-be0c-4f80-9f2f-7b1b5ff73975"/>															
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_74355ed1-ac76-44db-b629-b62936065dd4"/>															
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="c8e47d68-685d-4033-aee2-bbf7909e7769" /> <!-- must be unique -->
@@ -630,7 +630,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="0" /> <!--0 = Masc 1 = Fem -->
 					<attribute id="DisplayName" type="TranslatedString" handle="hd26df289g3941g43b1g9860g232eb02f4220" version="1" />
-					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_edd709c3-be0c-4f80-9f2f-7b1b5ff73975"/>															
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_954acec4-5436-4ed7-91ae-7386b0bf606e"/>															
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="4e3cae90-da7d-4ef2-98a7-dfb153ae4501" /> <!-- must be unique -->
@@ -714,7 +714,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
 					<attribute id="DisplayName" type="TranslatedString" handle="ha02a08a3g513bg4201gab17g52610fe4810e" version="1" />
-					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_a6a5ed23-793b-4732-a4cb-34121f803507"/>															
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_98ce4566-3691-4bee-9dc6-277c86631338"/>															
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="2560f26d-a62a-4cbf-80f4-619ef4502ff2" /> <!-- must be unique -->
@@ -750,7 +750,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
 					<attribute id="DisplayName" type="TranslatedString" handle="hd5da820fg7ea4g4ceeg9232g52fbeb8341ee" version="1" />
-					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_852087d6-f4f7-4d0a-89e9-4961e4f42bd5"/>															
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_e524a117-bc13-4984-b944-c9251ab21bb4"/>															
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="1614a5fd-e493-487b-8523-13db041ee60b" /> <!-- must be unique -->
@@ -762,7 +762,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
 					<attribute id="DisplayName" type="TranslatedString" handle="h29609a6eg874dg4b15gb338g18cf210feeff" version="1" />
-					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_9a840856-493b-46d5-82cd-76f0aec5a04d"/>															
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_176af87a-ce79-4bf9-a8c0-c0cf6222d86d"/>															
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="69aa04b2-a610-4abd-bbef-e0404cd88bb7" /> <!-- must be unique -->
@@ -795,7 +795,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
 					<attribute id="DisplayName" type="TranslatedString" handle="hbf218024ge15eg45a3gb0e3g3457fd5afc88" version="1" />
-					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_b85a0809-ccf8-48c3-ba25-bfefec095cae"/>															
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_36f79815-52f3-4527-a2f1-a61d5238a608"/>															
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="906cde9d-92d6-402a-a86c-309816e9b064" /> <!-- must be unique -->
@@ -828,7 +828,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
 					<attribute id="DisplayName" type="TranslatedString" handle="h984cddfeg2b96g4035g8b97g3240ba2f23f3" version="1" />
-					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_30a1eb1c-667c-4aa9-8eb5-57e5197160d7"/>															
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_5d650203-ce65-4a04-9d98-9188d5dbb9ca"/>															
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="28f2f235-4ecb-454f-a4d9-06b385e4bf62" /> <!-- must be unique -->
@@ -861,7 +861,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
 					<attribute id="DisplayName" type="TranslatedString" handle="h0c46275cg8b84g44e9gb271g495745950847" version="1" />
-					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_4feb6486-7d73-4b74-a315-ba7cd185246c"/>															
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_26df69e9-e0bc-437b-abfa-ab2c7c7b5f87"/>															
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="5b7fcaa2-b75a-4242-9387-e2886e215b6d" /> <!-- must be unique -->
@@ -872,7 +872,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
 					<attribute id="DisplayName" type="TranslatedString" handle="h921bb974g38f1g4c7agbf63g9ed4073bb740" version="1" />
-					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_09f43a3a-ffc0-487c-ac8f-39a8d8407336"/>															
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_ce58adf8-913d-4014-ac90-b07c4ce24a35"/>															
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="3130d749-3af5-452c-8677-55d1a997c16d" /> <!-- must be unique -->
@@ -883,7 +883,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
 					<attribute id="DisplayName" type="TranslatedString" handle="hc57bd6a2g0a71g4eebg80ecg8a156e6ec36b" version="1" />
-					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_fd9828a4-3dcf-44bd-afc6-7c0dedc1873a"/>															
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_e6df6f55-530b-4669-a7bc-965b92e8c35f"/>															
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="b0e6ffc8-fe3c-4cd1-9e47-192ee34e4b34" /> <!-- must be unique -->
@@ -894,7 +894,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
 					<attribute id="DisplayName" type="TranslatedString" handle="h6f1bf1a0gdd28g45c9g8dffg142e18ef6414" version="1" />
-					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_fd9828a4-3dcf-44bd-afc6-7c0dedc1873a"/>															
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_cbab2e17-6fd4-47e7-be07-71aee07aa69e"/>															
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="17e2e0c5-9e62-4178-84cd-42380dd8e304" /> <!-- must be unique -->
@@ -927,7 +927,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
 					<attribute id="DisplayName" type="TranslatedString" handle="h735f6ef5g41aeg4506gacb4g2b814fd086f7" version="1" />
-					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_1e1766b7-ef92-4463-a5d3-a41440d3284e"/>															
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_8b480083-d5d2-4333-ada2-872f8c8b6dab"/>															
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="d4bc3c07-6227-43c8-9ede-83e807d7f038" /> <!-- must be unique -->
@@ -960,7 +960,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
 					<attribute id="DisplayName" type="TranslatedString" handle="h55a2f7bbg8af3g492dgba6dg7fff6c535611" version="1" />
-					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_9e99e8ff-21e6-4d95-b16d-a8fc3a4b0975"/>															
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_ee509d70-e597-4185-9d56-8f599aaa425d"/>															
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="7e3f8d91-16a9-4656-a9d8-96b0eb93472a" /> <!-- must be unique -->
@@ -993,7 +993,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
 					<attribute id="DisplayName" type="TranslatedString" handle="h518f6dfagee3bg4117gb363ga977612ee840" version="1" />
-					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_edd709c3-be0c-4f80-9f2f-7b1b5ff73975"/>															
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_25c749a8-6788-41c5-9c76-8ba64e9138e9"/>															
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="725e6c1c-f13f-467e-89c4-97c031fedc24" /> <!-- must be unique -->
@@ -1026,7 +1026,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
 					<attribute id="DisplayName" type="TranslatedString" handle="he3307e05g9538g45d5g87b7g4823a5177e76" version="1" />
-					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_e920c67b-1485-4f43-b3cd-d190c1739067"/>															
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_54009d14-aa69-4d38-a81a-27269216769a"/>															
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="03e0380a-1fcd-4a4f-a21e-35e8a257f63f" /> <!-- must be unique -->
@@ -1037,7 +1037,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
 					<attribute id="DisplayName" type="TranslatedString" handle="h0cee4827gab80g4452ga660g9587b65632f5" version="1" />
-					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_edd709c3-be0c-4f80-9f2f-7b1b5ff73975"/>															
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_88328cc8-b2f2-40ac-944a-ffb9d6a7e7f3"/>															
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="28535f1f-b6ea-45a7-bb5b-17a91a25ed7c" /> <!-- must be unique -->
@@ -1048,7 +1048,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
 					<attribute id="DisplayName" type="TranslatedString" handle="hd3dace01g7d3cg4459gb615g6c930d4d9d98" version="1" />
-					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_edd709c3-be0c-4f80-9f2f-7b1b5ff73975"/>															
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_74355ed1-ac76-44db-b629-b62936065dd4"/>															
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="e6cf1e8d-d741-45bf-a9a3-ce2e3aac2a54" /> <!-- must be unique -->
@@ -1059,7 +1059,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
 					<attribute id="DisplayName" type="TranslatedString" handle="hd26df289g3941g43b1g9860g232eb02f4220" version="1" />
-					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_edd709c3-be0c-4f80-9f2f-7b1b5ff73975"/>															
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_954acec4-5436-4ed7-91ae-7386b0bf606e"/>															
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="0ecbc872-6662-482a-b1b4-9188832f1514" /> <!-- must be unique -->
