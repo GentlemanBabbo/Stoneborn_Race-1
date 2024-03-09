@@ -61,11 +61,20 @@
 	<content contentuid="h43a69035gcd84g43cdga734gfcffb57def08" version="1">Clean Slate</content>
 	<content contentuid="h5f1daf71g5004g4606gbb76g650f73140c48" version="1">Boulder</content>
 	<content contentuid="h267441fcgae5dg4f11ga185gf534f0823082" version="1">Rock Diva</content>
-	<content contentuid="h05c997a7gec24g4d30g855dg8287ab2df81f" version="1">Stoneborn Tag</content>
-	<content contentuid="h87a00d5fga4bdg4adagbd78ge92303f8be2f" version="1">Goliath Tag</content>
-	<content contentuid="hd5696b2cg21e7g4e70g89e2ge346bc6c2943" version="1">Crystal Formation</content>
-	<content contentuid="h7acb79ebg13ddg4e5agbee5gb50902a592f5" version="1">Hedgehog Buns</content>
-	<content contentuid="h0cee4827gab80g4452ga660g9587b65632f5" version="1">Will-O'-Whisp</content>
+
+	<content contentuid="h05c997a7gec24g4d30g855dg8287ab2df81f" version="1">Stoneborn</content>
+	<content contentuid="h87a00d5fga4bdg4adagbd78ge92303f8be2f" version="1">Goliath</content>
+	
+	<content contentuid="hd5696b2cg21e7g4e70g89e2ge346bc6c2943" version="1">Crystal Formation: Fire</content>
+	<content contentuid="h59f5e9beg2f76g4697g9a7ega1001a167df4" version="1">Crystal Formation: Mushroom</content>
+	<content contentuid="h518f6dfagee3bg4117gb363ga977612ee840" version="1">Crystal Formation: Emerald</content>
+	<content contentuid="h7acb79ebg13ddg4e5agbee5gb50902a592f5" version="1">Hedgehog Buns: Fire</content>
+	<content contentuid="hb6937494gfc0bg4aa9g93afg80564b844f00" version="1">Hedgehog Buns: Mushroom</content>
+	<content contentuid="he3307e05g9538g45d5g87b7g4823a5177e76" version="1">Hedgehog Buns: Emerald</content>
+	<content contentuid="h0cee4827gab80g4452ga660g9587b65632f5" version="1">Will-O'-Wisp: Fire</content>
+	<content contentuid="hd3dace01g7d3cg4459gb615g6c930d4d9d98" version="1">Will-O'-Wisp: Mushroom</content>
+	<content contentuid="hd26df289g3941g43b1g9860g232eb02f4220" version="1">Will-O'-Wisp: Emerald</content>
+
 	<content contentuid="" version="1"></content>
 	<content contentuid="hf6c30735ga729g454bg81a5g0325a519891d" version="1">Boulder Toss</content>
 	<content contentuid="h40c02d51g3a81g4e03g82e1g4c8a3803e6dd" version="1">Throw an object or your foe; inflict damage based on their size.</content>

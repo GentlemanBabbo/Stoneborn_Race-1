@@ -2,17 +2,13 @@
 
 new entry "Playable_M_Stoneborn"
 type "Character"
-using "_Humanoid"
+using "_Hero"
 data "DefaultBoosts" "ScaleMultiplier(1.33)"
-data "GameSize" "Medium"
-data "Weight" "135"
 
 new entry "Playable_F_Stoneborn"
 type "Character"
-using "_Humanoid"
+using "_Hero"
 data "DefaultBoosts" "ScaleMultiplier(1.33)"
-data "GameSize" "Medium"
-data "Weight" "135"
 
 <!--------------------- Stoneborn Passives --------------------->
 
@@ -21,7 +17,7 @@ type "PassiveData"
 data "Icon" "statIcons_HillGiantsMight"
 data "DisplayName" "hdc1766e2g45a5g49bcga862g46cb3f067477"
 data "Description" "h5354a700g2ee6g456cgbb8fg8066092e2228"
-data "Boosts" "CarryCapacityMultiplier(1.5);WeightCategory(+1)"
+data "Boosts" "ActionResource(Movement,9,0);CarryCapacityMultiplier(1.5);WeightCategory(+1)"
 data "Properties" "Highlighted"
 
 new entry "Passive_Ironhand"

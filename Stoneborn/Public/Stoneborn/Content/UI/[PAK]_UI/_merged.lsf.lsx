@@ -14,6 +14,16 @@
 					<attribute id="Template" type="FixedString" value="Stoneborn_Icons" /> <!--The name of the ModName_Icons.lsx but without the ".lsx" -->
 					<attribute id="Type" type="int64" value="0" />
 				</node>
+				<node id="Resource">
+					<attribute id="ID" type="FixedString" value="0e5c4e3e-effa-43b2-8ade-f627b20e70b8" /> <!-- The .dds's UUID; should match the UUID listed in the ModName_Icons.lsx -->
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Stoneborn_Hair_CCIcons" /> <!-- The name of the .dds file but without the ".dds" part -->
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Public/Stoneborn/Assets/Textures/Icons/Stoneborn_Hair_CCIcons.dds" /> <!-- The path to the .dds file; should match the path listed in the ModName_Icons.lsx -->
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Stoneborn_Hair_CCIcons" /> <!--The name of the ModName_Icons.lsx but without the ".lsx" -->
+					<attribute id="Type" type="int64" value="0" />
+				</node>
 			</children>
 		</node>
 	</region>

@@ -18,6 +18,9 @@
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="d3406cdf-a585-4c9e-b99e-8ce2243f9026" />
 								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
+								</node>
 							</children>
 						</node>
 						<node id="GameMaster" />
@@ -38,6 +41,9 @@
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="d3406cdf-a585-4c9e-b99e-8ce2243f9026" />
 								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
+								</node>
 							</children>
 						</node>
 						<node id="GameMaster" />
@@ -51,12 +57,12 @@
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="b56266bd-33c3-4257-8320-ad112de62267" /> inherits from normal Stoneborn body
 					<attribute id="Icon" type="FixedString" value="eb370ddf-f7a4-4349-116e-f489556bab1d-_(Icon_Human_Female_Strong)" />
+					<attribute id="Stats" type="FixedString" value="Playable_F_Stoneborn" />
 					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> stronk armour set
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="5a67d682-0826-47f4-b0f0-51fc81a58194" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
-					<attribute id="Race" type="guid" value="4b571ca6-3b3d-4664-9d4c-672e6dd11274" /> define race as Custom Race
-					<attribute id="Stats" type="FixedString" value="Playable_F_Stoneborn" />
+					<attribute id="Race" type="guid" value="39e235f4-69e1-4e8c-9017-786693891655" /> define race as Custom Race
 					<children>
 						<node id="SpeakerGroupList">
 							<children>
@@ -89,12 +95,12 @@
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="0037e998-bfbe-4a4e-beb5-5c8ac2342846" />
 					<attribute id="Icon" type="FixedString" value="dbe45e58-e009-91ae-91f1-e5311cbef090-_(Icon_Human_Male_Strong)" />
+					<attribute id="Stats" type="FixedString" value="Playable_M_Stoneborn" />
 					<attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />stronk armour set
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="9f0fa08b-5731-441c-86ef-498579c0b111" />
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
-					<attribute id="Race" type="guid" value="4b571ca6-3b3d-4664-9d4c-672e6dd11274" />
-					<attribute id="Stats" type="FixedString" value="Playable_M_Stoneborn" />
+					<attribute id="Race" type="guid" value="39e235f4-69e1-4e8c-9017-786693891655" />
 					<children>
 						<node id="SpeakerGroupList">
 							<children>
