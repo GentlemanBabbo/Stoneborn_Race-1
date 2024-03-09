@@ -362,7 +362,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="0" /> <!--0 = Masc 1 = Fem -->
 					<attribute id="DisplayName" type="TranslatedString" handle="hbf218024ge15eg45a3gb0e3g3457fd5afc88" version="1" />
-					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_b85a0809-ccf8-48c3-ba25-bfefec095cae"/>															
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_36f79815-52f3-4527-a2f1-a61d5238a608"/>															
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="6484298c-2eeb-49cd-b901-6097d1e2333e" /> <!-- must be unique -->
