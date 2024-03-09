@@ -324,7 +324,7 @@
 					<!-- Match the ID line in the Hair merged in this template it is Public\Autosnapping_Template\Content\Assets\Characters\[PAK]_Hair\_merged.lsf.lsx -->
         		</node>
 
-				<node id="CharacterCreationAppearanceVisual">Mushrooms Hair M
+				<node id="CharacterCreationAppearanceVisual">Mushroom Mind Hair M
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="0" /> <!--0 = Masc 1 = Fem -->
 					<attribute id="DisplayName" type="TranslatedString" handle="h29609a6eg874dg4b15gb338g18cf210feeff" version="1" />
@@ -434,7 +434,7 @@
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="3f78b5e8-2fa8-49ff-9ced-1f971b437c97" /> <!-- must be unique -->
-					<attribute id="VisualResource" type="guid" value="8b480083-d5d2-4333-ada2-872f8c8b6dab" />
+					<attribute id="VisualResource" type="guid" value="26df69e9-e0bc-437b-abfa-ab2c7c7b5f87" />
 					<!-- Match the ID line in the Hair merged in this template it is Public\Autosnapping_Template\Content\Assets\Characters\[PAK]_Hair\_merged.lsf.lsx -->
         		</node>
 
@@ -458,6 +458,17 @@
 					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
 					<attribute id="UUID" type="guid" value="41ae686d-19fa-4f43-bd1b-94cfe45806f5" /> <!-- must be unique -->
 					<attribute id="VisualResource" type="guid" value="fd9828a4-3dcf-44bd-afc6-7c0dedc1873a" />
+					<!-- Match the ID line in the Hair merged in this template it is Public\Autosnapping_Template\Content\Assets\Characters\[PAK]_Hair\_merged.lsf.lsx -->
+        		</node>
+				<node id="CharacterCreationAppearanceVisual"> Mane Emerald M
+					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
+					<attribute id="BodyType" type="uint8" value="0" /> <!--0 = Masc 1 = Fem -->
+					<attribute id="DisplayName" type="TranslatedString" handle="h6f1bf1a0gdd28g45c9g8dffg142e18ef6414" version="1" />
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_fd9828a4-3dcf-44bd-afc6-7c0dedc1873a"/>															
+					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
+					<attribute id="SlotName" type="FixedString" value="Hair" /> <!-- This defines that this asset is a hair -->
+					<attribute id="UUID" type="guid" value="094300c5-ce83-48ff-81cb-d057d13da1d1" /> <!-- must be unique -->
+					<attribute id="VisualResource" type="guid" value="efa29d70-583b-41fa-a194-61b0988e3753" />
 					<!-- Match the ID line in the Hair merged in this template it is Public\Autosnapping_Template\Content\Assets\Characters\[PAK]_Hair\_merged.lsf.lsx -->
         		</node>
 
@@ -646,7 +657,7 @@
 
 				<node id="CharacterCreationAppearanceVisual">Emerald Hair B M
 					<attribute id="BodyShape" type="uint8" value="0" /> <!--0 = Standard 1 = Tall Muscular -->
-					<attribute id="BodyType" type="uint8" value="0" /> <!--0 = Masc 1 = Fem -->
+					<attribute id="BodyType" type="uint8" value="1" /> <!--0 = Masc 1 = Fem -->
 					<attribute id="DisplayName" type="TranslatedString" handle="ha02a08a3g513bg4201gab17g52610fe4810e" version="1" />
 					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_a6a5ed23-793b-4732-a4cb-34121f803507"/>															
 					<attribute id="RaceUUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491"/>
