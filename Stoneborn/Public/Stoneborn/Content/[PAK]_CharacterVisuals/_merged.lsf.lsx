@@ -85,6 +85,12 @@
 									<children>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="e6a79cc2-66d1-e05a-6f18-5237c7d0f941" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="06Eyes" />
 											<attribute id="MapKey" type="FixedString" value="06Eyes" />
 											<attribute id="MaterialPresetResource" type="FixedString" value="6bc183a6-2507-ea97-fb15-9a4029332d76" />
@@ -148,6 +154,12 @@
 							<children>
 								<node id="MaterialPresets">
 									<children>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="e6a79cc2-66d1-e05a-6f18-5237c7d0f941" />
+										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="06Eyes" />

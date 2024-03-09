@@ -14,6 +14,41 @@
             <attribute id="RaceSoundSwitch" type="FixedString" value="Dwarf" />           sound it makes when you select the race
             <attribute id="UUID" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491" /> Race UUID, keep this for adding hairs etc
                 <children>
+                    <!--Skin Colors-->
+                        <!--Orcish Gray 1-->
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="c0ca666c-cd14-4786-bfbe-0f5b350fd95c" />
+                        </node>
+                        <!--Orcish Gray 2-->
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="3de9610b-7534-4e1b-a8c1-f63200ba14a0" />
+                        </node>
+                        <!--Orcish Gray 3-->
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="3a01bfcd-eb50-4e12-b5ed-8c1e69a35a49" />
+                        </node>
+                        <!--Orcish Gray 4-->
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="fe9846e8-ace3-4f54-92b6-e4f3c0e6fa18" />
+                        </node>
+                        <!--Orcish Gray 5-->
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="610d51f0-2752-4d08-afb3-799f09013c7f" />
+                        </node>
+                        <!--Orcish Gray 6-->
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="c35d923b-384a-400c-b778-49b9508cf20e" />
+                        </node>
+                        <!--Orcish Gray 7-->
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="27691c49-bc04-4777-b4f9-e1e9a779d5cb" />
+                        </node>
+                        <!--Orcish Gray 8-->
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="1d56981b-b89f-4ece-85a3-7b5c27e76e19" />
+                        </node>
+
+                    <!--Eye Colors-->
                         <!--Flame Blue 1-->
                         <node id="EyeColors">
                             <attribute id="Object" type="guid" value="b3c6b283-d4ba-48e1-99fc-e45623880b33" />
@@ -187,6 +222,7 @@
                             <attribute id="Object" type="guid" value="b561e7ff-18fd-4af4-a084-87048fe2f68d" />
                         </node>
 
+                    <!--Hair Colors-->
                         <node id="HairColors">
                             <attribute id="Object" type="guid" value="0206c920-e750-4dfb-9760-8376a31b231d" />
                         </node>
@@ -1341,27 +1377,6 @@
                         </node>
                         <node id="MakeupColors">
                             <attribute id="Object" type="guid" value="e2a2383e-4c83-45f4-9fd0-4cb215897c35" />
-                        </node>
-                        <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="5fa0fbde-9f00-42f6-9804-beff86291f4b" />
-                        </node>
-                        <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="6a857902-12d6-4e16-8508-dccb57b534d6" />
-                        </node>
-                        <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="e00c7318-e5a0-41c6-ab53-d4f7847c89b0" />
-                        </node>
-                        <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="f91ca476-8a80-4461-86a1-7ede84d7cfec" />
-                        </node>
-                        <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="de606cab-c9e8-453f-8a4f-724e0568bc36" />
-                        </node>
-                        <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="246d9b49-1654-4ea3-b3d0-4b61edd7a29b" />
-                        </node>
-                        <node id="SkinColors">
-                            <attribute id="Object" type="guid" value="06ca12ba-50ae-4029-8c55-56b9e80d3f15" />
                         </node>
                         <node id="TattooColors">
                             <attribute id="Object" type="guid" value="8f8019ae-4c7d-4871-8479-1219fbf6ba7e" />
