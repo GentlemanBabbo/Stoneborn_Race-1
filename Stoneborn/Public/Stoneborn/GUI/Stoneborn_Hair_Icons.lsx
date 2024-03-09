@@ -7,21 +7,21 @@
             <!-- I dug these coordinates out of the game files, but I've seen other modders use different coordinates, particularly if they crop their .dds to only the first row. I recommend keeping the .dds sized at 8192 x 4196
             and using these coordinates, otherwise the game (particularly if run through DirectX 11 instead of Vulkan) might not show your icons. -->
                 <node id="IconUV"> 1 
-                    <attribute id="MapKey" type="FixedString" value="0_Hair"/> <!-- Matches the IconIdOverride value in CharacterCreationAppearanceVisuals -->
+                    <attribute id="MapKey" type="FixedString" value="0_Hair_30e16e6c-5b8b-48f8-bd9c-e74cca2b13a5"/> <!-- Matches the IconIdOverride value in CharacterCreationAppearanceVisuals -->
                     <attribute id="U1" type="float" value="6.1035156e-05"/>	Left boundary
                     <attribute id="U2" type="float" value="0.018249512"/>	Right boundary
                     <attribute id="V1" type="float" value="0.00012207031"/>	Top boundary
                     <attribute id="V2" type="float" value="0.036499023"/>	Bottom boundary
                 </node>
                 <node id="IconUV"> 2 
-                    <attribute id="MapKey" type="FixedString" value=""/>
+                    <attribute id="MapKey" type="FixedString" value="0_Hair_eaf1f77f-74a9-40fb-91ee-e9723b259c57"/>
                     <attribute id="U1" type="float" value="0.018371582"/>	
                     <attribute id="U2" type="float" value="0.036560059"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
                 <node id="IconUV"> 3 
-                    <attribute id="MapKey" type="FixedString" value=""/>
+                    <attribute id="MapKey" type="FixedString" value="0_Hair_630101d6-1190-4ea9-bc78-726413141f77"/>
                     <attribute id="U1" type="float" value="0.036682129"/>	
                     <attribute id="U2" type="float" value="0.054870605"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	

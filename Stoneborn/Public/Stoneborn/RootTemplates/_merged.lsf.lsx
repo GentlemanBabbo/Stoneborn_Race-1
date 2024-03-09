@@ -11,7 +11,7 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="b98a80f4-20dc-4666-9b5b-2993b38034ed" />
 					<attribute id="Icon" type="FixedString" value="24bcc44f-4168-1468-222a-b1bb6370e000-_(Icon_Elf_Female)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="58b3a456-445d-4253-8957-0426ce30ff38" />
-					<attribute id="Race" type="guid" value="39e235f4-69e1-4e8c-9017-786693891655" />
+					<attribute id="Race" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491" />
 					<children>
 						<node id="Tags">
 							<children>
@@ -34,7 +34,7 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="dcded019-b845-43a0-b91c-b853646218a1" />
 					<attribute id="Icon" type="FixedString" value="4c8affee-8495-7a94-6506-bf050e0e091a-_(Icon_Elf_Male)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="01a192d2-38d8-4e8d-b837-9244b13cfd66" />
-					<attribute id="Race" type="guid" value="39e235f4-69e1-4e8c-9017-786693891655" />
+					<attribute id="Race" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491" />
 					<children>
 						<node id="Tags">
 							<children>
@@ -62,7 +62,7 @@
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="5a67d682-0826-47f4-b0f0-51fc81a58194" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
-					<attribute id="Race" type="guid" value="39e235f4-69e1-4e8c-9017-786693891655" /> define race as Custom Race
+					<attribute id="Race" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491" /> define race as Custom Race
 					<children>
 						<node id="SpeakerGroupList">
 							<children>
@@ -100,7 +100,7 @@
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="9f0fa08b-5731-441c-86ef-498579c0b111" />
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
-					<attribute id="Race" type="guid" value="39e235f4-69e1-4e8c-9017-786693891655" />
+					<attribute id="Race" type="guid" value="9ab90609-319d-4f11-b526-02a5e2484491" />
 					<children>
 						<node id="SpeakerGroupList">
 							<children>
