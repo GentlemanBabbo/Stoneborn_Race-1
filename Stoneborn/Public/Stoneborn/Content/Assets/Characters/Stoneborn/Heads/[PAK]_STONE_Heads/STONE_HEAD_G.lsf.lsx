@@ -2478,7 +2478,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="6e22e793-7992-6cdf-5f01-a02bb1e4d02d" />
+							<attribute id="MaterialID" type="FixedString" value="3e29f47c-5498-4ca7-b6ca-ea0d259c75dc" />
 							<attribute id="ObjectID" type="FixedString" value="Stoneborn_MS_Head_G.8_STONE_MS_NKD_Head_G_Scalp_Mesh.7" />
 						</node>
 					</children>
