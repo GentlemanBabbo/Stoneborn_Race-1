@@ -165,7 +165,7 @@
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" /> Body
-							<attribute id="MaterialID" type="FixedString" value="3e29f47c-5498-4ca7-b6ca-ea0d259c75dc" />
+							<attribute id="MaterialID" type="FixedString" value="b9f8d688-2008-4250-b629-03307f66c36d" />
 							<attribute id="ObjectID" type="FixedString" value="Stoneborn_FS_NKD.1_STONE_FS_NKD_Mesh.0" />
 						</node>
 						<node id="Objects">
