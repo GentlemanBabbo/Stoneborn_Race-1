@@ -6,7 +6,7 @@
       <children>
           <node id="SpellList">Spell list lvl 1
               <attribute id="Comment" type="LSString" value="Stoneborn lvl 1 spell list" /> 
-              <attribute id="Spells" type="LSString" value="Target_Slam_Elemental_Earth" /> the spells within the selector
+              <attribute id="Spells" type="LSString" value="Target_Slam_Stoneborn" /> the spells within the selector
               <attribute id="UUID" type="guid" value="faa752b9-daab-46ea-aaa3-7a462f845d56" /> the UUID, needs to be unique
           </node>
 
