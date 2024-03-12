@@ -189,6 +189,27 @@ data "SpellFlags" "RangeIgnoreVerticalThreshold;IsHarmful;HasHighGroundRangeExte
 data "PrepareEffect" "adfdab5b-a3df-4415-86b5-01ff9d541564"
 data "CastEffect" "7a553dd4-06bf-4092-b211-8de50aabed0f"
 
+new entry "Target_Slam_Stoneborn"
+type "SpellData"
+data "SpellType" "Target"
+data "TargetCeiling" "0"
+data "TargetFloor" ".25"
+data "TargetRadius" "1.5"
+data "SpellProperties" "IF(not Player(context.Source)):ApplyStatus(SELF,AI_HELPER_EXTRAATTACK,100,1);GROUND:CreateSurface(1,0,Mud)"
+data "SpellSuccess" "DealDamage(UnarmedDamage, Bludgeoning); DealDamage(max(1,1d6+1+UnarmedMeleeAbilityModifier), Bludgeoning);ApplyStatus(PRONE,100,2)"
+data "Icon" "Action_Monster_ElementalEarth_Slam"
+data "DisplayName" "he30af119ge00fg4d04g880fg95b7816762bd;2"
+data "Description" "he70b15d1gfba1g4eabgbf6fg3043f8291a9f;2"
+data "TooltipDamageList" ""DealDamage(UnarmedDamage, Bludgeoning); DealDamage(max(1,1d6+1+UnarmedMeleeAbilityModifier), Bludgeoning)"
+data "PrepareSound" "CrSpell_Prepare_ElementalEarth_Slam"
+data "PrepareLoopSound" "CrSpell_Loop_ElementalEarth_Slam"
+data "CastSound" "CrSpell_Cast_ElementalEarth_Slam"
+data "TargetSound" "CrSpell_Impact_ElementalEarth_Slam"
+data "PrepareEffect" "3c7eca6a-aaf2-4481-a9b3-63593cfdf105"
+data "CastEffect" "d6e9dd61-ef5d-4aa7-95ee-0dc362a2d16d"
+data "PositionEffect" "0aeac37e-9890-4c79-9cae-cb01433264e1"
+data "Sheathing" "DontChange
+
 <!---------------------- Stoneborn Boosts -------------------->
 
 new entry "LONG_JUMP"
